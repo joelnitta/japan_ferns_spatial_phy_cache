@@ -1,13 +1,10 @@
 name|type|data|command|depend|seed|path|time|size|bytes|format|iteration|parent|children|seconds|warnings|error
-refs_other_yaml|stem|492f68e1967ddfbd|d972c6b5d0a8df9d|ef46db3751d8e999|-1522278727|ms/references_other.yaml|t18988.5555505384s|f6ed260b2656b5b5|4423|file|vector|||0.003||
 indep_vars|stem|9038274752bc273a|42c8e0bcd690c92f|a3dad144c40657ed|-795253454||t18988.575183372s|887021b347b02e8f|100|rds|vector|||0.002||
 resp_vars_env|stem|04abeb36d6421606|06af9dbdb60cc0c2|a3dad144c40657ed|-162322265||t18988.5751838812s|0b52c5847220add9|82|rds|vector|||0.002||
 raw_trait_data_file|stem|11e51df20ad5e9e8|5e960dfe34935f3d|ef46db3751d8e999|-1603226139|data/japan_ferns_traits_lucid.csv|t18988.5641530478s|1bf53d171b6ab3d4|718148|file|vector|||0.002||
 resp_vars_repro|stem|a5b26dec10ddd77b|d5b0fcbb43cf6f7f|a3dad144c40657ed|1399745628||t18988.5751862423s|425d385953b3c542|67|rds|vector|||0.003||
-csl_file|stem|9af018f9370a69bd|a007abdccdd87780|ef46db3751d8e999|-540784379|ms/apa-6th-edition.csl|t18988.5555504921s|bc4e0964c1c90779|57890|file|vector|||0.003||
 bioregion_cutoff|stem|403c8f1bac9bb598|794b13eddf1090d6|ef46db3751d8e999|1533615293||t18988.5790630782s|ded833868582137a|50|rds|vector|||0.003||
 ebihara_2019_zip_file|stem|79ea80b20f2051a5|2f29d10237e3e299|ef46db3751d8e999|472149545|data/doi_10.5061_dryad.4362p32__v4.zip|t18988.5756897125s|c2372e2c64b8eb8a|189329184|file|vector|||0.002||
-template_file|stem|af1d70e213ef476c|de427052fa94a1d9|ef46db3751d8e999|-1857571638|ms/template.docx|t18988.5555505384s|233d4afbba093240|18887|file|vector|||0.003||
 japan_map_file|stem|fef0af397b7e04fa|93fc93d5327c8436|ef46db3751d8e999|-321219903|data/japan_map.gpkg|t18988.5676209959s|04171334169bbea8|1003520|file|vector|||0.003||
 mollweide|stem|d4ace9da4af79f5a|91b536b0662077d5|ef46db3751d8e999|1706575814||t18988.5790667819s|36500b95d6893aee|74|rds|vector|||0.003||
 japan_ferns_shape_full_file|stem|f94915eb822d291e|112d8669e994e78f|ef46db3751d8e999|293181531|data/japan_ferns_shape_full.gpkg|t18988.5658348462s|3028a4e9e72ca804|401408|file|vector|||0.003||
@@ -1183,11 +1180,17 @@ morans_i_a8754e74|branch|9809232d42e8510a|45ce504e6ae2915b|d1113db5c2913db8|1086
 morans_i_b31ca86d|branch|a1197bf75d77efb0|45ce504e6ae2915b|5327d9f25171b3f5|-969302363||t18998.2078294575s|efcd02b2c80eadaa|298|rds|vector|morans_i||43.652||
 binary_sig_results|stem|50397b55cb0e2435|4a33bd739706ebc0|8bdcec8f9bde534c|1933336815||t18998.208866907s|0894a896d54ea448|2089|rds|vector|||172.847||
 fern_traits|stem|dbf247f1a134042a|05f33816a3b2633d|c7fa292ad11e3e5b|-498007679||t18998.2326537516s|2f77f14c061ecfd3|15320|rds|vector|||5.227|the standard deviation is zero|
-ms_functions|stem|f0518e87969fff5f|7678548fcbb5a461|ef46db3751d8e999|38470060|R/ms_functions.R|t18998.2415928346s|66c15576095ae118|11282|file|vector|||0.001||
 si_data_exploration|stem|f31c10300d9aec5d|2a9d7abaf9d1330f|2a97ed3f1e9e7750|-24441862|results/appendix_s2.pdf*ms/data_exploration.Rmd|t18998.2415928809s|0ad05d7ddc62b73d|2023239|file|vector|||14.644|fancyhdr                You might also make \topmargin smaller to compensate|
-si_pdf|stem|2c9d636ace709d3a|a4c6906aaa13c31e|e37f96a01b09040c|-1969991469|results/appendix_s1.pdf*ms/SI.Rmd|t18998.2792820762s|52927889eb469db3|15701753|file|vector|||75.083|fancyhdr                You might also make \topmargin smaller to compensate|
-refs_yaml|stem|ba1c13e22ba7235f|feed598d9dfb083d|ef46db3751d8e999|-1003750144|ms/references.yaml|t18998.2962271929s|28fddb77ffa24e62|49169|file|vector|||0.001||
-data_readme|stem|da32c6c133885f12|ed88872dbecc7476|041762250f4641f5|588561285|results/data_readme.rtf*ms/data_readme.Rmd|t18998.2969507549s|2a0d685c694da5a5|76635|file|vector|||10.744||
+ms_functions|stem|e5638e8e6189727f|7678548fcbb5a461|ef46db3751d8e999|38470060|R/ms_functions.R|t19010.3863905872s|6277f6665ec56f01|11320|file|vector|||0.001||
+csl_file|stem|cfffe28a73a1fb3d|b1645a34e35204b6|ef46db3751d8e999|-540784379|ms/american-journal-of-botany.csl|t19010.3656974809s|ef679c0e5e02cec2|6557|file|vector|||0.002||
+template_file|stem|619a0e05add902aa|8adc01d289d70a18|ef46db3751d8e999|-1857571638|ms/american-journal-of-botany.docx|t19012.2939690067s|c219d874015efce5|19841|file|vector|||0.002||
+refs_other_bib|stem|06eeca800a627a87|f3b6044e1fe451b7|ef46db3751d8e999|-1002747980|ms/references_other.bib|t19013.0596770791s|7769978a1e72a4db|788|file|vector|||0.002||
+bioregions_all_labels|stem|090766a6e6cc79b3|c368d7ab409beafb|4bd31283044cc5c2|-1081194760||t19013.3664336466s|9b4cb3b78207de34|4076|rds|vector|||0.31|st_centroid assumes attributes are constant over geometries of x|
+refs_yaml|stem|fd323da3fe80f46c|feed598d9dfb083d|ef46db3751d8e999|-1003750144|ms/references.yaml|t19013.4087428186s|2c11ee7ab9832014|57281|file|vector|||0.003||
+refs_other_yaml|stem|a06ca2e1758a623f|d972c6b5d0a8df9d|ef46db3751d8e999|-1522278727|ms/references_other.yaml|t19013.4086151339s|af889345790a5cf7|6276|file|vector|||0.003||
+data_readme|stem|10b05c2a510c4ba2|ed88872dbecc7476|fe9ebb8cff34729f|588561285|results/data_readme.rtf*ms/data_readme.Rmd|t19013.4092700387s|5068e31d58c8f71e|76624|file|vector|||10.7||
+ms_doc|stem|60d2bb4ecb79c854|3fe519ac72530496|a1e613b8a12a42c0|-1755183155|results/manuscript.docx*ms/manuscript.Rmd|t19013.4180437992s|78e5c7cc82b0bc15|165443|file|vector|||91.338|Unknown levels in f  0.01,  0.025,  0.975|
+ms_pdf|stem|f737116eac131594|2d952fec5b3aa0b8|a1e613b8a12a42c0|-1527614975|results/manuscript.pdf*ms/manuscript.Rmd|t19013.4192505071s|c3bf13bd407752f5|5362088|file|vector|||104.22|Unknown levels in f  0.01,  0.025,  0.975|
 predict_fit|function|ce20a141fcbbd3bb||||||||||||||
 rename_alignment|function|ac6249b6bf34d6fd||||||||||||||
 area_from_crop|function|4e9a767706d45d0b||||||||||||||
@@ -1272,7 +1275,7 @@ make_traits_dendrogram|function|a07ad731ed3c504f||||||||||||||
 unzip_ebihara_2019|function|1c8ed3bcbe8f772e||||||||||||||
 make_trait_dist_matrix|function|79b1192ae2669a6b||||||||||||||
 read_ja_rbcL_from_zip|function|c23430e406c7bb5a||||||||||||||
-.Random.seed|object|73d4ff8d0bf103b1||||||||||||||
+.Random.seed|object|9dc9dd88a3af4f2b||||||||||||||
 calculate_percent_protected|function|b638a10967f8c23a||||||||||||||
 read_greenlist_from_zip|function|ef127dd459274e16||||||||||||||
 load_repro_data|function|0c0495579451b7e4||||||||||||||
@@ -1283,7 +1286,7 @@ subset_comm_by_repro|function|9bdf7b1f93f4e397||||||||||||||
 transform_traits|function|f695513f16ff28ad||||||||||||||
 calc_redundancy_by_res|function|e5ae260fcd34a959||||||||||||||
 write_csv_tar|function|9800ece0fcf2d323||||||||||||||
-.__NAMESPACE__.|object|f859fe2cc86ea034||||||||||||||
+.__NAMESPACE__.|object|017d22071a874e31||||||||||||||
 find_k_phylogeny|function|efce3855c36fdf0d||||||||||||||
 analyze_binary_phylosig|function|6a5ffc702faaaa01||||||||||||||
 calc_area_by_lat|function|8cde9b7b84a11f10||||||||||||||
@@ -1296,6 +1299,7 @@ phylo_endemism|function|a71b69063ac2804b||||||||||||||
 load_ppgi|function|290b04f6f965b96b||||||||||||||
 spatial_to_cent_for_model|function|bd53130cf384e66a||||||||||||||
 summarize_fern_lat_span|function|702928b5860633a9||||||||||||||
+relabel_bioregions_by_lat_keep_old|function|4d4ab1d33a610ac3||||||||||||||
 add_roll_area|function|75381fd8811419ee||||||||||||||
 run_mod_ttest_ja|function|35c230a9a6730066||||||||||||||
 relabel_bioregions_by_lat|function|6333d1402aab8728||||||||||||||
@@ -1316,5 +1320,4 @@ analyze_cont_phylosig|function|9aec7c923ddf250c||||||||||||||
 calc_biodiv_random|function|e1a0f8014e703497||||||||||||||
 cpr_classify_endem|function|be4813614f6ee804||||||||||||||
 cpr_classify_signif|function|da543105050d37cd||||||||||||||
-ms_doc|stem|e62c3443b1dcd6b8|cc3acd692d00c7ca|6efce6b7b3093a00|-1755183155|results/manuscript.docx*ms/manuscript.Rmd|t19009.0730842837s|f5e31bf52cfe6548|541325|file|vector|||103.932|Unknown levels in f  0.01,  0.025,  0.975|
-ms_pdf|stem|6eb44112e34a6ee1|6a7f5b0a58f4f3d1|6efce6b7b3093a00|-1527614975|results/manuscript.pdf*ms/manuscript.Rmd|t19009.074347473s|31fbf99f08aedee7|5387955|file|vector|||109.122|Unknown levels in f  0.01,  0.025,  0.975|
+si_pdf|stem|d4c7fe279427d13a|f21c3cdedb0f4eeb|6956e8c136639028|-1969991469|results/appendix_s1.pdf*ms/SI.Rmd|t19013.4985179507s|4d445cc256c2f1ce|15696961|file|vector|||78.459|fancyhdr                You might also make \topmargin smaller to compensate|

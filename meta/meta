@@ -33,7 +33,6 @@ inext_res|stem|3539f8bfb9437d3c|fdb1bd8576e3d749|5e0bc15712d61f24|-1081504402||t
 occ_point_data_summary|stem|8dfc469e59f6d1bd|3651d67668009acb|0ea6c3742408ac3a|-1262319508||t18988.5790878466s|e49c0adc34fa3713|370|rds|vector|||0.198||
 shape_ferns|stem|53f5c3b765dac302|8c1ec15fa856a70a|4b234c0bc5e79fe0|629549162||t18988.5790880781s|9a843cacf52dd2cd|24097|rds|vector|||0.047||
 test_results|stem|da7a3dad7a31c553|0ec249e8500318df|327ec6fbae1e7bb8|1051836653||t18988.5790892355s|ac45463db19e2cbe|48|rds|vector|||0.593||
-shape_ferns_dryad_file|stem|336c59546f2cba4f|7afb3d7ccecaede7|c41bc54582b8a140|-1292556197|results/dryad_files/japan_ferns_shape.gpkg|t18988.5790903466s|8e8e6f3421800266|368640|file|vector|||0.146||
 comm_ferns_full|stem|e84809fbc97d643c|e58b2b718b8f7699|b54d6e0a9a6b7afb|-425450970||t18988.5790934485s|44add0c4e341d3f1|77767|rds|vector|||1.794||
 protected_areas|stem|d8adcc2f24fe6e36|b062768ab2752c38|8678e66c89b07e7b|1052823572||t18988.5791566889s|56e1463cf55c85bf|22392567|rds|vector|||2.558||
 japan_rbcL_raw|stem|dccf96952f629d86|14ac3eb966269e5a|938076ebcf27d209|-670929324||t18988.5791571056s|475819645751f46e|33381|rds|vector|||5.317||
@@ -53,24 +52,18 @@ japan_fern_tree|stem|0a677b4bc3258637|d1a8cc2a770d8c19|5af5e40c502963e1|-4558615
 japan_fern_phylogram|stem|5b282fbcf03bde8a|f28c099c0c20a9b8|852792716869a4c9|-855156240||t18996.2529316978s|3a56ecb92b18403f|20717|rds|vector|||0.012||
 traits_for_dist|stem|77e59dddfcd1f5f3|075360e407ffe19b|dc053378675f33d9|149968410||t18996.2801014926s|8f38db1dd07ba0e7|18164|rds|vector|||0.052||
 fern_traits_binary|stem|f1d991b1565995e7|717c84a82c89d031|7fabd0ccd809ba44|-1781331719||t18996.2801016315s|2bfb3acd801284f5|11141|rds|vector|||0.003||
-fern_traits_dryad_file|stem|24bfdc6833b91ccd|45a1037d5d12fed7|6c18342baeac3fe9|-1234646451|results/dryad_files/japan_ferns_traits.csv|t18996.2801020481s|d6693626596d340e|126668|file|vector|||0.032||
 lat_area_ja|stem|1fb10afb1bd2601e|c99f0887c5d0daf2|f41280b1136bf095|-922049873||t18996.280209131s|b6f21f2597fd73ce|1734|rds|vector|||9.231||
 trait_distance_matrix|stem|8a868b60019f6d39|fd0e319ec8665e53|d33dc56a48e221b4|867253829||t18996.2802126958s|dc0ff2d3f8a9eab3|1596663|rds|vector|||0.191||
 mean_climate|stem|76988daf8be76ed2|65efa5a0e8715594|1808ce0aeaf4c376|1100801111||t18996.2802326957s|8aa63cd2dedb626f|22570|rds|vector|||1.482||
 japan_fern_trait_tree|stem|b409d868cae22759|0c7b76960bfbdf47|f3a6f23e8589fece|1158506188||t18996.2802329735s|e26b080522601b48|19998|rds|vector|||0.016||
 k_taxonomy|stem|f2bb3a3ee9e143af|f054ce089b055628|9ab3ac3c8468841c|946708977||t18996.2803963525s|a8783347156db04c|1496407|rds|vector|||13.87||
 percent_apo|stem|ee86049e892bcad3|8b41631341639dfb|5af5b1b0b7950c90|-1077952829||t18996.2804012598s|ca95be5c7ad0b31c|9498|rds|vector|||0.117||
-comm_ferns_dryad_file|stem|ac12d38174a99279|9ac4f0c924a671e5|4f53dbf50e0e21ba|1770892964|results/dryad_files/japan_ferns_comm.csv|t18996.2804023247s|69b048981257383b|1686837|file|vector|||0.087||
 comm_ferns_endemic|stem|f7a8b58e6b4e95f7|48b5f191db5a9fd1|2bfcdcd185637e7f|1394574314||t18996.2804038524s|189b0eef815ccd57|10618|rds|vector|||0.114||
-japan_fern_tree_uncollapsed_dryad_file|stem|f4ecc8a00806657f|650f19f489f2db28|805bb648fc0a851b|-1585369506|results/dryad_files/japan_ferns_tree_dated_uncollapsed.tre|t18996.2817780133s|0b3e73936cefdd05|30205|file|vector|||0.038||
 regions_taxonomy|stem|3ac519274bb1ef53|2d9cd5a080d304a6|a7b90fff7957788f|1658924139||t18996.2820385215s|f74afc3f9a37b870|3269|rds|vector|||5.81||
 k_phylogeny|stem|221dfb28f2af049d|cbbd86a9e60501fb|2760e0c7de0d1a46|318451786||t18996.2837022183s|e8f80070ea60b2e4|5504675|rds|vector|||24.407||
-japan_fern_tree_dryad_file|stem|10c4ba31236e2335|b701a4c8d8026423|48e99312bfce86c6|1899873402|results/dryad_files/japan_ferns_tree_dated.tre|t18996.2836993016s|0b5c5dba4a1cd6f9|28703|file|vector|||0.037||
-japan_fern_phylogram_dryad_file|stem|5301e584222f5553|e98fc47b5a87c8e1|30e44f1f0961c3ef|-2015938006|results/dryad_files/japan_ferns_tree.tre|t18996.2848102692s|72b192f15264d761|33930|file|vector|||0.071||
 data_for_spamm_not_ult|stem|76ba9ff47c5058e7|8baed5fa4fe4c776|9879f469a093b7b5|-1945667310||t18996.2848365654s|20642a61646b3c84|89559|rds|vector||data_for_spamm_not_ult_cf90e048*data_for_spamm_not_ult_f4d99a3b|0.02||
 regions_phylogeny|stem|5315e697226191a2|1b7e79b36e265e47|9a9615dda5f395b3|-1121203058||t18996.2848403154s|fda77824936bd0b3|3290|rds|vector|||2.72||
 biodiv_ferns_spatial_lumped|stem|80c532dde003c83f|b085b4858267fc44|dd6fa1af2da6b319|631500674||t18996.2850850366s|ce5c2ea4af08b0ae|280847|rds|vector|||0.019||
-japan_ferns_biodiv_dryad_file|stem|8f38004a4c3c7a94|da598b885598eebd|46f111b39605ab79|129546322|results/dryad_files/japan_ferns_biodiv.csv|t18996.2850854532s|df8cf9e0bed9ac5c|511092|file|vector|||0.24||
 data_for_spamm|stem|00da09cfc3b3db88|f791b6c3d8daabc1|3981bf33bf528e26|170910087||t18996.9263127364s|bf08dc86d3d16819|461668|rds|vector||data_for_spamm_d2a6d372*data_for_spamm_4f7152c3*data_for_spamm_0db619f1*data_for_spamm_881248d1*data_for_spamm_3b631494*data_for_spamm_41bf0685*data_for_spamm_a7ba72ae|0.034||
 deer_danger_biodiv|stem|2e484206bcd7fdbb|286ff65a2821c250|ed5412e2233a6ac2|-990367250||t18996.9264821802s|238edd335cba701f|234858|rds|vector|||14.287|attribute variables are assumed to be spatially constant throughout all geometries|
 signif_cells_deer_danger|stem|d945606a77be56e5|67518bf402b5ae8b|d36935fb7c63d7d8|-1845752541||t18996.9264872727s|c0bcc022442a2701|569|rds|vector|||0.234||
@@ -1164,7 +1157,6 @@ biodiv_ferns_spatial_not_ult|stem|b762c77616cc3bb7|9bc7808bcc35cfbf|b36eb8bfaea6
 biodiv_ferns_not_ult|stem|21729c5ff0438603|2eeba2b611831156|a79af2f1c07ca32e|533923835||t18998.2069013595s|b73adea30254b1cb|44694|rds|vector|||0.184|Removed 3 rows containing missing values.|
 biodiv_ferns_spatial|stem|788cbf37d3cb21f8|5776e62d9ec98b6c|bdf7632f8f664bf9|614148138||t18998.2069426556s|ad37d331b9e6d15c|280883|rds|vector|||5.453|st_centroid assumes attributes are constant over geometries of x|
 biodiv_ferns_cent|stem|2e4d1a62095a5549|065a29e2546d7710|3d487969b588bd6f|-1628847566||t18998.2069471464s|71a751d203f5c984|66007|rds|vector|||0.216|Removed 3 rows containing missing values.|
-biodiv_ferns_cent_dryad|stem|575736c0e8c94fc1|d8a1ad9c3fffb8f9|927e3d8e9877f477|716080638||t18998.2069485352s|5153b0b71399e6b8|113077|rds|vector|||0.355|st_centroid assumes attributes are constant over geometries of x|
 t_test_results|stem|2123546a64ed1740|c8e8e3fb6b954b58|ae2e4c4af33e616b|484831019||t18998.2072421451s|969cddda92766793|772|rds|vector|||3.859|st_centroid assumes attributes are constant over geometries of x|
 data_for_lrt|stem|f2463057650a9d79|718e7a687b833ccc|90b3b5af8f5c21ae|-128746720||t18998.2073168208s|53f1d374f8c25f0a|2644268|rds|vector||data_for_lrt_5307bdde*data_for_lrt_15100b73*data_for_lrt_19a1b6ad*data_for_lrt_03fe0074*data_for_lrt_7b1ee780*data_for_lrt_40c352f3*data_for_lrt_60f821c7*data_for_lrt_a40ec669*data_for_lrt_7ac32184*data_for_lrt_ffe87f9b*data_for_lrt_bbafff01*data_for_lrt_20b29739*data_for_lrt_61bbe5ec*data_for_lrt_34fa21c5*data_for_lrt_49ddb6fa*data_for_lrt_28f0db5f*data_for_lrt_de78b14a*data_for_lrt_cd63f524*data_for_lrt_c7c8c04f*data_for_lrt_4c6dd76f*data_for_lrt_6b4fb41e*data_for_lrt_570c6bd3*data_for_lrt_63e6cf3a*data_for_lrt_02b64005*data_for_lrt_39a35e93*data_for_lrt_df1e8489*data_for_lrt_089fad50*data_for_lrt_7928e5ec*data_for_lrt_e25e075f*data_for_lrt_083fa4c4*data_for_lrt_f0e34ee8*data_for_lrt_f9be6811*data_for_lrt_1bcdf7de*data_for_lrt_e17ff3b4*data_for_lrt_c817069e*data_for_lrt_a55eea5d*data_for_lrt_9216b660*data_for_lrt_a0b27ceb*data_for_lrt_ac694d33*data_for_lrt_5c32a7f1|0.185||
 phy_sig_results|stem|59fea658ed55baed|1b535aab8b2bfb93|0dbfd96dc9c809ad|461867680||t18998.2077132543s|44d8296aaebe8c60|317|rds|vector|||72.99||
@@ -1180,7 +1172,6 @@ morans_i_a8754e74|branch|9809232d42e8510a|45ce504e6ae2915b|d1113db5c2913db8|1086
 morans_i_b31ca86d|branch|a1197bf75d77efb0|45ce504e6ae2915b|5327d9f25171b3f5|-969302363||t18998.2078294575s|efcd02b2c80eadaa|298|rds|vector|morans_i||43.652||
 binary_sig_results|stem|50397b55cb0e2435|4a33bd739706ebc0|8bdcec8f9bde534c|1933336815||t18998.208866907s|0894a896d54ea448|2089|rds|vector|||172.847||
 fern_traits|stem|dbf247f1a134042a|05f33816a3b2633d|c7fa292ad11e3e5b|-498007679||t18998.2326537516s|2f77f14c061ecfd3|15320|rds|vector|||5.227|the standard deviation is zero|
-si_data_exploration|stem|f31c10300d9aec5d|2a9d7abaf9d1330f|2a97ed3f1e9e7750|-24441862|results/appendix_s2.pdf*ms/data_exploration.Rmd|t18998.2415928809s|0ad05d7ddc62b73d|2023239|file|vector|||14.644|fancyhdr                You might also make \topmargin smaller to compensate|
 ms_functions|stem|e5638e8e6189727f|7678548fcbb5a461|ef46db3751d8e999|38470060|R/ms_functions.R|t19010.3863905872s|6277f6665ec56f01|11320|file|vector|||0.001||
 csl_file|stem|cfffe28a73a1fb3d|b1645a34e35204b6|ef46db3751d8e999|-540784379|ms/american-journal-of-botany.csl|t19010.3656974809s|ef679c0e5e02cec2|6557|file|vector|||0.002||
 template_file|stem|619a0e05add902aa|8adc01d289d70a18|ef46db3751d8e999|-1857571638|ms/american-journal-of-botany.docx|t19012.2939690067s|c219d874015efce5|19841|file|vector|||0.002||
@@ -1188,9 +1179,19 @@ refs_other_bib|stem|06eeca800a627a87|f3b6044e1fe451b7|ef46db3751d8e999|-10027479
 bioregions_all_labels|stem|090766a6e6cc79b3|c368d7ab409beafb|4bd31283044cc5c2|-1081194760||t19013.3664336466s|9b4cb3b78207de34|4076|rds|vector|||0.31|st_centroid assumes attributes are constant over geometries of x|
 refs_yaml|stem|fd323da3fe80f46c|feed598d9dfb083d|ef46db3751d8e999|-1003750144|ms/references.yaml|t19013.4087428186s|2c11ee7ab9832014|57281|file|vector|||0.003||
 refs_other_yaml|stem|a06ca2e1758a623f|d972c6b5d0a8df9d|ef46db3751d8e999|-1522278727|ms/references_other.yaml|t19013.4086151339s|af889345790a5cf7|6276|file|vector|||0.003||
-data_readme|stem|10b05c2a510c4ba2|ed88872dbecc7476|fe9ebb8cff34729f|588561285|results/data_readme.rtf*ms/data_readme.Rmd|t19013.4092700387s|5068e31d58c8f71e|76624|file|vector|||10.7||
 ms_doc|stem|60d2bb4ecb79c854|3fe519ac72530496|a1e613b8a12a42c0|-1755183155|results/manuscript.docx*ms/manuscript.Rmd|t19013.4180437992s|78e5c7cc82b0bc15|165443|file|vector|||91.338|Unknown levels in f  0.01,  0.025,  0.975|
 ms_pdf|stem|f737116eac131594|2d952fec5b3aa0b8|a1e613b8a12a42c0|-1527614975|results/manuscript.pdf*ms/manuscript.Rmd|t19013.4192505071s|c3bf13bd407752f5|5362088|file|vector|||104.22|Unknown levels in f  0.01,  0.025,  0.975|
+si_pdf|stem|d4c7fe279427d13a|f21c3cdedb0f4eeb|6956e8c136639028|-1969991469|results/appendix_s1.pdf*ms/SI.Rmd|t19013.4985179507s|4d445cc256c2f1ce|15696961|file|vector|||78.459|fancyhdr                You might also make \topmargin smaller to compensate|
+si_data_exploration|stem|b2cbc9b720f935c4|2a9d7abaf9d1330f|b1924c16d924c476|-24441862|results/appendix_s2.pdf*ms/data_exploration.Rmd|t19013.9278902976s|4c6231eabb1a1a27|2023214|file|vector|||13.848|fancyhdr                You might also make \topmargin smaller to compensate|
+fern_traits_figshare_file|stem|24bfdc6833b91ccd|9dfbf9724282081a|6c18342baeac3fe9|1560003471|results/figshare_files/japan_ferns_traits.csv|t19013.9278940013s|d6693626596d340e|126668|file|vector|||0.14||
+shape_ferns_figshare_file|stem|336c59546f2cba4f|ee88e7c6bfed712c|c41bc54582b8a140|934154287|results/figshare_files/japan_ferns_shape.gpkg|t19013.9317277353s|8e8e6f3421800266|368640|file|vector|||0.091||
+comm_ferns_figshare_file|stem|ac12d38174a99279|84d02c2fb93678ff|4f53dbf50e0e21ba|-631997561|results/figshare_files/japan_ferns_comm.csv|t19013.9317305131s|69b048981257383b|1686837|file|vector|||0.208||
+japan_fern_tree_uncollapsed_figshare_file|stem|f4ecc8a00806657f|cf18ba28011e617c|805bb648fc0a851b|-1474471314|results/figshare_files/japan_ferns_tree_dated_uncollapsed.tre|t19013.9317312538s|0b3e73936cefdd05|30205|file|vector|||0.026||
+japan_fern_tree_figshare_file|stem|10c4ba31236e2335|9ce5d652cfd56ea6|48e99312bfce86c6|-945731860|results/figshare_files/japan_ferns_tree_dated.tre|t19013.9317317631s|0b5c5dba4a1cd6f9|28703|file|vector|||0.027||
+japan_fern_phylogram_figshare_file|stem|5301e584222f5553|c712915dfef07406|30e44f1f0961c3ef|459134205|results/figshare_files/japan_ferns_tree.tre|t19013.9317321334s|72b192f15264d761|33930|file|vector|||0.025||
+biodiv_ferns_cent_figshare|stem|575736c0e8c94fc1|d8a1ad9c3fffb8f9|927e3d8e9877f477|-256109275||t19013.9317353279s|5153b0b71399e6b8|113077|rds|vector|||0.234|st_centroid assumes attributes are constant over geometries of x|
+japan_ferns_biodiv_figshare_file|stem|8f38004a4c3c7a94|6aca86ee9b58585a|9247d298b2065450|-1691359462|results/figshare_files/japan_ferns_biodiv.csv|t19013.9317361612s|df8cf9e0bed9ac5c|511092|file|vector|||0.055||
+data_readme|stem|767dee68c09bc945|6ec31d809a0d8226|6b64238266309f9b|588561285|results/data_readme.rtf*ms/data_readme.Rmd|t19013.9318586144s|7bbce4fbf2bfacb8|76858|file|vector|||10.588||
 predict_fit|function|ce20a141fcbbd3bb||||||||||||||
 rename_alignment|function|ac6249b6bf34d6fd||||||||||||||
 area_from_crop|function|4e9a767706d45d0b||||||||||||||
@@ -1275,7 +1276,7 @@ make_traits_dendrogram|function|a07ad731ed3c504f||||||||||||||
 unzip_ebihara_2019|function|1c8ed3bcbe8f772e||||||||||||||
 make_trait_dist_matrix|function|79b1192ae2669a6b||||||||||||||
 read_ja_rbcL_from_zip|function|c23430e406c7bb5a||||||||||||||
-.Random.seed|object|9dc9dd88a3af4f2b||||||||||||||
+.Random.seed|object|b6f91674c8e3fa54||||||||||||||
 calculate_percent_protected|function|b638a10967f8c23a||||||||||||||
 read_greenlist_from_zip|function|ef127dd459274e16||||||||||||||
 load_repro_data|function|0c0495579451b7e4||||||||||||||
@@ -1320,4 +1321,3 @@ analyze_cont_phylosig|function|9aec7c923ddf250c||||||||||||||
 calc_biodiv_random|function|e1a0f8014e703497||||||||||||||
 cpr_classify_endem|function|be4813614f6ee804||||||||||||||
 cpr_classify_signif|function|da543105050d37cd||||||||||||||
-si_pdf|stem|d4c7fe279427d13a|f21c3cdedb0f4eeb|6956e8c136639028|-1969991469|results/appendix_s1.pdf*ms/SI.Rmd|t19013.4985179507s|4d445cc256c2f1ce|15696961|file|vector|||78.459|fancyhdr                You might also make \topmargin smaller to compensate|

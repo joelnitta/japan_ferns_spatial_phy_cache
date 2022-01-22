@@ -1034,7 +1034,6 @@ refs_other_yaml|stem|a06ca2e1758a623f|d972c6b5d0a8df9d|ef46db3751d8e999|-1522278
 ms_doc|stem|60d2bb4ecb79c854|3fe519ac72530496|a1e613b8a12a42c0|-1755183155|results/manuscript.docx*ms/manuscript.Rmd|t19013.4180437992s|78e5c7cc82b0bc15|165443|file|vector|||91.338|Unknown levels in f  0.01,  0.025,  0.975|
 ms_pdf|stem|f737116eac131594|2d952fec5b3aa0b8|a1e613b8a12a42c0|-1527614975|results/manuscript.pdf*ms/manuscript.Rmd|t19013.4192505071s|c3bf13bd407752f5|5362088|file|vector|||104.22|Unknown levels in f  0.01,  0.025,  0.975|
 si_pdf|stem|d4c7fe279427d13a|f21c3cdedb0f4eeb|6956e8c136639028|-1969991469|results/appendix_s1.pdf*ms/SI.Rmd|t19013.4985179507s|4d445cc256c2f1ce|15696961|file|vector|||78.459|fancyhdr                You might also make \topmargin smaller to compensate|
-si_data_exploration|stem|b2cbc9b720f935c4|2a9d7abaf9d1330f|b1924c16d924c476|-24441862|results/appendix_s2.pdf*ms/data_exploration.Rmd|t19013.9278902976s|4c6231eabb1a1a27|2023214|file|vector|||13.848|fancyhdr                You might also make \topmargin smaller to compensate|
 fern_traits_figshare_file|stem|24bfdc6833b91ccd|9dfbf9724282081a|6c18342baeac3fe9|1560003471|results/figshare_files/japan_ferns_traits.csv|t19013.9278940013s|d6693626596d340e|126668|file|vector|||0.14||
 shape_ferns_figshare_file|stem|336c59546f2cba4f|ee88e7c6bfed712c|c41bc54582b8a140|934154287|results/figshare_files/japan_ferns_shape.gpkg|t19013.9317277353s|8e8e6f3421800266|368640|file|vector|||0.091||
 comm_ferns_figshare_file|stem|ac12d38174a99279|84d02c2fb93678ff|4f53dbf50e0e21ba|-631997561|results/figshare_files/japan_ferns_comm.csv|t19013.9317305131s|69b048981257383b|1686837|file|vector|||0.208||
@@ -1191,6 +1190,7 @@ lrt_results_9d1d6e93|branch|c685d6af1e605e0b|1a475fd6e7bb24c7|3e3b43b8f30bbe2a|-
 lrt_results_273da407|branch|d1768ba00c1dff8b|1a475fd6e7bb24c7|0c7672a72c915575|-169473280||t19013.9581955834s|905688308fb113f7|351|rds|vector|lrt_results||1112.608||
 lrt_results_73cb1fb9|branch|6f4d6721e4cc4c01|1a475fd6e7bb24c7|9a302c944c858638|1664318409||t19013.9581955834s|c00122ae53f3dfad|352|rds|vector|lrt_results||1043.596||
 lrt_results_0f91ba73|branch|17c0db3bae53402e|1a475fd6e7bb24c7|f8b0619b0d392d2d|193686109||t19013.9581955834s|d6f6cb245ef27b75|356|rds|vector|lrt_results||1052.382||
+data_readme|stem|09cf1d6b0cfa3f26|6ec31d809a0d8226|6b64238266309f9b|588561285|results/data_readme.rtf*ms/data_readme.Rmd|t19014.9206145709s|5da51d1ae5559d97|74329|file|vector|||12.734||
 predict_fit|function|ce20a141fcbbd3bb||||||||||||||
 rename_alignment|function|ac6249b6bf34d6fd||||||||||||||
 area_from_crop|function|4e9a767706d45d0b||||||||||||||
@@ -1275,7 +1275,7 @@ make_traits_dendrogram|function|a07ad731ed3c504f||||||||||||||
 unzip_ebihara_2019|function|1c8ed3bcbe8f772e||||||||||||||
 make_trait_dist_matrix|function|79b1192ae2669a6b||||||||||||||
 read_ja_rbcL_from_zip|function|c23430e406c7bb5a||||||||||||||
-.Random.seed|object|6ed44c84bb878527||||||||||||||
+.Random.seed|object|28d3ffb24591f5e2||||||||||||||
 calculate_percent_protected|function|b638a10967f8c23a||||||||||||||
 read_greenlist_from_zip|function|ef127dd459274e16||||||||||||||
 load_repro_data|function|0c0495579451b7e4||||||||||||||
@@ -1320,4 +1320,4 @@ analyze_cont_phylosig|function|9aec7c923ddf250c||||||||||||||
 calc_biodiv_random|function|e1a0f8014e703497||||||||||||||
 cpr_classify_endem|function|be4813614f6ee804||||||||||||||
 cpr_classify_signif|function|da543105050d37cd||||||||||||||
-data_readme|stem|09cf1d6b0cfa3f26|6ec31d809a0d8226|6b64238266309f9b|588561285|results/data_readme.rtf*ms/data_readme.Rmd|t19014.9206145709s|5da51d1ae5559d97|74329|file|vector|||12.734||
+si_data_exploration|stem|3e30f374e880884e|af0989c7b5347e3a|fd0a08868fe945ac|-24441862|results/appendix_s2.pdf*ms/data_exploration.Rmd|t19014.9345988169s|c02d8aecf21b4628|2023225|file|vector|||15.101|fancyhdr                You might also make \topmargin smaller to compensate|

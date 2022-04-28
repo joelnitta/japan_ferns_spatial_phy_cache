@@ -1,23 +1,5 @@
 name|type|data|command|depend|seed|path|time|size|bytes|format|iteration|parent|children|seconds|warnings|error
-raw_trait_data_file|stem|11e51df20ad5e9e8|5e960dfe34935f3d|ef46db3751d8e999|-1603226139|data/japan_ferns_traits_lucid.csv|t18988.5641530478s|1bf53d171b6ab3d4|718148|file|vector|||0.002||
-ebihara_2019_zip_file|stem|79ea80b20f2051a5|2f29d10237e3e299|ef46db3751d8e999|472149545|data/doi_10.5061_dryad.4362p32__v4.zip|t18988.5756897125s|c2372e2c64b8eb8a|189329184|file|vector|||0.002||
-japan_map_file|stem|fef0af397b7e04fa|93fc93d5327c8436|ef46db3751d8e999|-321219903|data/japan_map.gpkg|t18988.5676209959s|04171334169bbea8|1003520|file|vector|||0.003||
-japan_ferns_shape_full_file|stem|f94915eb822d291e|112d8669e994e78f|ef46db3751d8e999|293181531|data/japan_ferns_shape_full.gpkg|t18988.5658348462s|3028a4e9e72ca804|401408|file|vector|||0.003||
-japan_ferns_comm_full_file|stem|00e4f8555f1d7806|2b8705b31177fe8b|ef46db3751d8e999|1710636705|data/japan_ferns_comm_full.csv|t18988.5658625775s|67bca2e215bd0c79|1875831|file|vector|||0.003||
-calibration_dates_file|stem|414baef7f4d562c1|79bff504ad92f461|ef46db3751d8e999|-1549787450|data/testo_sundue_2016_calibrations.csv|t18988.5762482287s|71206e4091e31666|3293|file|vector|||0.003||
-japan_map_points_file|stem|019672cc57545a8a|ea13afe57e51d79c|ef46db3751d8e999|-1124735430|data/japan_map_points.csv|t18988.5771373455s|fccdc8db6f16d537|659|file|vector|||0.003||
-redundancy_by_res_file|stem|82f77ec474af2428|3549d51929366035|ef46db3751d8e999|1394163820|data/japan_ferns_redundancy_by_res.csv|t18988.5658279017s|7ea5029565092979|238464|file|vector|||0.002||
-protected_areas_file|stem|78b1b9722a423477|ce7e9d5c2f32ead9|ef46db3751d8e999|-230899529|data/japan_protected_areas.gpkg|t18988.5674366911s|781db49f10a2eadf|27508736|file|vector|||0.003||
-deer_range_file|stem|5caa63bb36f9ad12|fad46b1074603a85|ef46db3751d8e999|-2104922289|data/japan_deer_range.gpkg|t18988.565691606s|ad1c7fb11ff1a4c4|626688|file|vector|||0.002||
-ftol_zip_file|stem|ba346cda1b8a8711|7e9c14e888387f6c|ef46db3751d8e999|-1780443117|data/ftol_data_release_v0.0.1.zip|t18988.5763564227s|49a6b917ae8fa8c1|5669458|file|vector|||0.003||
-inext_res_file|stem|3b4945a25ddcb38a|c0d8284907f77b98|ef46db3751d8e999|500026415|data/japan_ferns_inext_results.csv|t18988.5651571176s|18673077be177a64|2113|file|vector|||0.002||
-ja_climate_data_file|stem|a20add08053d1170|32c7a1eed79fbe3e|ef46db3751d8e999|2015311699|data/japan_climate.gpkg|t18988.5641538811s|2ca16233f9450f75|16887808|file|vector|||0.003||
-occ_point_data_summary_file|stem|e429a23d534599e1|a6c0b6de6e893a1f|ef46db3751d8e999|-1216887977|data/japan_ferns_occ_summary.csv|t18988.5651603583s|11684eb95dbf8c0d|189|file|vector|||0.003||
 morans_i|pattern|f55e84712e0d0d59|45ce504e6ae2915b||-1609972526||||2972|rds|vector||morans_i_9eaa19d5*morans_i_49726682*morans_i_b31ca86d*morans_i_a1cae4d4*morans_i_a94b54d7*morans_i_c135b4e8*morans_i_27334d46*morans_i_fe57551f*morans_i_a8754e74*morans_i_4013368b|365.387||
-spatial_models_not_ult|pattern|4ce0515cbdcbd6ac|66c3ed0712af1e37||-2027835647||||157624209|rds|vector||spatial_models_not_ult_6be81b4d*spatial_models_not_ult_0d10f70d|504.306||
-model_fits_not_ult|pattern|82bb0bdd94c3d6a0|8de35ecb8c58cb4f||-1477765673||||1839|rds|vector||model_fits_not_ult_1ac0a723*model_fits_not_ult_dbeb200a|87.289||
-spatial_models|pattern|fa2b5dd843d1bfcf|15e6855fc110348a||188454534||||523225265|rds|vector||spatial_models_d1b6439b*spatial_models_7c53a0e0*spatial_models_e03db944*spatial_models_6b63c0c1*spatial_models_6c42ac29*spatial_models_7c153c85*spatial_models_5b5df6a5|3292.729||
-model_fits|pattern|f6e2b37025e65be2|01281e76c3b6111f||-553083469||||6797|rds|vector||model_fits_55e3f6b3*model_fits_f183514b*model_fits_a99bb3b4*model_fits_86b4f232*model_fits_71bff899*model_fits_cfb1bb9b*model_fits_05e13f0c|303.02||
 lrt_results|pattern|0409f0936e0a4c07|1a475fd6e7bb24c7||1333995576||||14062|rds|vector||lrt_results_856277d8*lrt_results_72b2a969*lrt_results_ae3efa14*lrt_results_0425e56c*lrt_results_3992471b*lrt_results_aefd6895*lrt_results_82d22a84*lrt_results_055b418f*lrt_results_e7b48e0a*lrt_results_5f1fc018*lrt_results_6d56c77d*lrt_results_6ca299da*lrt_results_edb984f0*lrt_results_346f6f31*lrt_results_e8f9ff66*lrt_results_89564e07*lrt_results_25a80851*lrt_results_158f6059*lrt_results_999fa245*lrt_results_179b192c*lrt_results_965fc00b*lrt_results_398222e7*lrt_results_80d35bad*lrt_results_6fe58e9b*lrt_results_9d48af84*lrt_results_27ea120c*lrt_results_307d09be*lrt_results_10fc1a9f*lrt_results_fe81718f*lrt_results_4800dafd*lrt_results_1c6cc8bc*lrt_results_f67d23dd*lrt_results_d3163b75*lrt_results_f015b531*lrt_results_8e2832c4*lrt_results_b7251360*lrt_results_9d1d6e93*lrt_results_273da407*lrt_results_73cb1fb9*lrt_results_0f91ba73|46227.242||
 GeomRibbon|object|9426f2f600c6ba26||||||||||||||
 StatSf|object|5562478370cc626f||||||||||||||
@@ -1025,174 +1007,196 @@ facet_wrap|function|e95b7f1560664d93||||||||||||||
 facet_grid|function|e4dd671f78440601||||||||||||||
 qplot|function|137f0e2139c6e763||||||||||||||
 quickplot|function|137f0e2139c6e763||||||||||||||
-ms_functions|stem|e5638e8e6189727f|7678548fcbb5a461|ef46db3751d8e999|38470060|R/ms_functions.R|t19010.3863905872s|6277f6665ec56f01|11320|file|vector|||0.001||
-csl_file|stem|cfffe28a73a1fb3d|b1645a34e35204b6|ef46db3751d8e999|-540784379|ms/american-journal-of-botany.csl|t19010.3656974809s|ef679c0e5e02cec2|6557|file|vector|||0.002||
-template_file|stem|619a0e05add902aa|8adc01d289d70a18|ef46db3751d8e999|-1857571638|ms/american-journal-of-botany.docx|t19012.2939690067s|c219d874015efce5|19841|file|vector|||0.002||
-refs_other_bib|stem|06eeca800a627a87|f3b6044e1fe451b7|ef46db3751d8e999|-1002747980|ms/references_other.bib|t19013.0596770791s|7769978a1e72a4db|788|file|vector|||0.002||
-refs_yaml|stem|fd323da3fe80f46c|feed598d9dfb083d|ef46db3751d8e999|-1003750144|ms/references.yaml|t19013.4087428186s|2c11ee7ab9832014|57281|file|vector|||0.003||
-refs_other_yaml|stem|a06ca2e1758a623f|d972c6b5d0a8df9d|ef46db3751d8e999|-1522278727|ms/references_other.yaml|t19013.4086151339s|af889345790a5cf7|6276|file|vector|||0.003||
-ms_doc|stem|60d2bb4ecb79c854|3fe519ac72530496|a1e613b8a12a42c0|-1755183155|results/manuscript.docx*ms/manuscript.Rmd|t19013.4180437992s|78e5c7cc82b0bc15|165443|file|vector|||91.338|Unknown levels in f  0.01,  0.025,  0.975|
-ms_pdf|stem|f737116eac131594|2d952fec5b3aa0b8|a1e613b8a12a42c0|-1527614975|results/manuscript.pdf*ms/manuscript.Rmd|t19013.4192505071s|c3bf13bd407752f5|5362088|file|vector|||104.22|Unknown levels in f  0.01,  0.025,  0.975|
-si_pdf|stem|d4c7fe279427d13a|f21c3cdedb0f4eeb|6956e8c136639028|-1969991469|results/appendix_s1.pdf*ms/SI.Rmd|t19013.4985179507s|4d445cc256c2f1ce|15696961|file|vector|||78.459|fancyhdr                You might also make \topmargin smaller to compensate|
-fern_traits_figshare_file|stem|24bfdc6833b91ccd|9dfbf9724282081a|6c18342baeac3fe9|1560003471|results/figshare_files/japan_ferns_traits.csv|t19013.9278940013s|d6693626596d340e|126668|file|vector|||0.14||
-shape_ferns_figshare_file|stem|336c59546f2cba4f|ee88e7c6bfed712c|c41bc54582b8a140|934154287|results/figshare_files/japan_ferns_shape.gpkg|t19013.9317277353s|8e8e6f3421800266|368640|file|vector|||0.091||
-comm_ferns_figshare_file|stem|ac12d38174a99279|84d02c2fb93678ff|4f53dbf50e0e21ba|-631997561|results/figshare_files/japan_ferns_comm.csv|t19013.9317305131s|69b048981257383b|1686837|file|vector|||0.208||
-japan_fern_tree_uncollapsed_figshare_file|stem|f4ecc8a00806657f|cf18ba28011e617c|805bb648fc0a851b|-1474471314|results/figshare_files/japan_ferns_tree_dated_uncollapsed.tre|t19013.9317312538s|0b3e73936cefdd05|30205|file|vector|||0.026||
-japan_fern_tree_figshare_file|stem|10c4ba31236e2335|9ce5d652cfd56ea6|48e99312bfce86c6|-945731860|results/figshare_files/japan_ferns_tree_dated.tre|t19013.9317317631s|0b5c5dba4a1cd6f9|28703|file|vector|||0.027||
-japan_fern_phylogram_figshare_file|stem|5301e584222f5553|c712915dfef07406|30e44f1f0961c3ef|459134205|results/figshare_files/japan_ferns_tree.tre|t19013.9317321334s|72b192f15264d761|33930|file|vector|||0.025||
-japan_ferns_biodiv_figshare_file|stem|8f38004a4c3c7a94|6aca86ee9b58585a|9247d298b2065450|-1691359462|results/figshare_files/japan_ferns_biodiv.csv|t19013.9317361612s|df8cf9e0bed9ac5c|511092|file|vector|||0.055||
-mollweide|stem|d4ace9da4af79f5a|91b536b0662077d5|ef46db3751d8e999|1706575814||t19013.9581956296s|36500b95d6893aee|74|rds|vector|||0.003||
-indep_vars|stem|9038274752bc273a|42c8e0bcd690c92f|a3dad144c40657ed|-795253454||t19013.958195213s|887021b347b02e8f|100|rds|vector|||0.002||
-resp_vars_repro|stem|a5b26dec10ddd77b|d5b0fcbb43cf6f7f|a3dad144c40657ed|1399745628||t19013.9581963241s|425d385953b3c542|67|rds|vector|||0.003||
-bioregion_cutoff|stem|403c8f1bac9bb598|794b13eddf1090d6|ef46db3751d8e999|1533615293||t19013.9581930371s|ded833868582137a|50|rds|vector|||0.003||
-resp_vars_env|stem|04abeb36d6421606|06af9dbdb60cc0c2|a3dad144c40657ed|-162322265||t19013.9581963241s|0b52c5847220add9|82|rds|vector|||0.002||
-test_results|stem|da7a3dad7a31c553|0ec249e8500318df|327ec6fbae1e7bb8|1051836653||t19013.9582276665s|ac45463db19e2cbe|48|rds|vector|||0.593||
-cont_traits|stem|2641754293dc5e0c|5f8e2a42aab4ea95|a3dad144c40657ed|1242582138||t19013.9581931297s|dfd0d40dc0c5171b|95|rds|vector|||0.003||
-comm_ferns_full|stem|e84809fbc97d643c|e58b2b718b8f7699|b54d6e0a9a6b7afb|-425450970||t19013.9581931297s|44add0c4e341d3f1|77767|rds|vector|||1.794||
-fern_traits|stem|dbf247f1a134042a|05f33816a3b2633d|c7fa292ad11e3e5b|-498007679||t19013.958195213s|2f77f14c061ecfd3|15320|rds|vector|||5.227|the standard deviation is zero|
-ja_climate_data|stem|589813c1c2f1e80d|fe9d253d85184e86|e14650882029bc22|-1879880584||t19013.9581953519s|fbeeecb5b32bf826|1632474|rds|vector|||3.083||
-japan_shp|stem|ec74a23a2ce5e736|f706d857cb1eba68|b0e481f6b00e252f|-1484105572||t19013.9581953519s|4c1ba487c11c6f64|753355|rds|vector|||0.146||
-green_list|stem|8c74b3c85c86fd52|6629d4d955b76bb2|71a7332a1df36325|1919936795||t19013.958195213s|b8a3f581b02fa4d4|26734|rds|vector|||0.703||
-japan_rbcL_raw|stem|dccf96952f629d86|14ac3eb966269e5a|938076ebcf27d209|-670929324||t19013.9581953519s|475819645751f46e|33381|rds|vector|||5.317||
-repro_data_raw|stem|66a9f6a842e38888|ce9422450ef5e666|ae8a0afa92ee029b|1032455018||t19013.9581963241s|c6735516249522a5|17946|rds|vector|||0.32||
-ppgi|stem|d733130ec4975da2|acb14973b3ef79aa|c3a70ee71669ebf0|-1156433641||t19013.9581957685s|20879e49aa487420|2838|rds|vector|||0.84||
-redundancy_by_res|stem|a376ace65cc0a53a|69e2f101eb6ae84f|86d97c24bba528df|1466649122||t19013.9581962778s|d67a575b2a019580|73684|rds|vector|||0.142||
-plastome_calibration_dates|stem|fa1bd2909c175471|752088fb941d5dad|36cd5ee6837a75b9|-556592904||t19013.9581957685s|3d2c40b5e8ca1f8e|1743|rds|vector|||0.397||
-japan_map_points|stem|ea44fb569bee4b03|d3ecbbcda19f3935|1c969fb07d62a7b9|-1559558123||t19013.9581953519s|d57738d6411fcd8b|796|rds|vector|||0.227||
-inext_res|stem|3539f8bfb9437d3c|fdb1bd8576e3d749|5e0bc15712d61f24|-1081504402||t19013.958195213s|106c719ef5cbb527|1249|rds|vector|||0.176||
-shape_ferns_full|stem|df6aa5153f67e4cc|0e6af604fe8568a6|c99613afafda764e|693816045||t19013.9581963241s|b912a7dbc812e829|25898|rds|vector|||0.123||
-broad_alignment_list|stem|5766c75b759e3d14|e0c462c2e4f94a53|99db2180109e1f4d|299154881||t19013.9581931297s|d711088dce6b7388|1635022|rds|vector|||25.538||
-deer_range|stem|7e3d5535c017b217|0614c709fe1b91e4|32a24543c63205c0|-380236377||t19013.9581950741s|c8f7f71321987baa|320078|rds|vector|||0.103||
-occ_point_data_summary|stem|8dfc469e59f6d1bd|3651d67668009acb|0ea6c3742408ac3a|-1262319508||t19013.9581956296s|e49c0adc34fa3713|370|rds|vector|||0.198||
-protected_areas|stem|d8adcc2f24fe6e36|b062768ab2752c38|8678e66c89b07e7b|1052823572||t19013.9581961852s|56e1463cf55c85bf|22392567|rds|vector|||2.558||
-traits_for_dist|stem|77e59dddfcd1f5f3|075360e407ffe19b|dc053378675f33d9|149968410||t19013.9582277128s|8f38db1dd07ba0e7|18164|rds|vector|||0.052||
-fern_traits_binary|stem|f1d991b1565995e7|717c84a82c89d031|7fabd0ccd809ba44|-1781331719||t19013.958195213s|2bfb3acd801284f5|11141|rds|vector|||0.003||
-traits_summary|stem|ab1aff77927d99e8|642a06d749e7f05e|eee41d61cf7a33db|-197676072||t19013.9582277128s|476aaeddbf8d904d|261|rds|vector|||0.032||
-lat_area_ja|stem|1fb10afb1bd2601e|c99f0887c5d0daf2|f41280b1136bf095|-922049873||t19013.9581955834s|b6f21f2597fd73ce|1734|rds|vector|||9.231||
-japan_rbcL|stem|25097d5b84b7ea80|eb025303fcc1d67e|323eb4dd34130f26|-1908622303||t19013.9581953519s|82d807efb61c96e4|38092|rds|vector|||0.058||
-repro_data|stem|0ee0e4ba25f6e33f|f7d78bd42ec9a136|c3f6659392527df1|-1031197902||t19013.9581962778s|38b88a418f875bc9|9647|rds|vector|||0.13||
-shape_ferns|stem|53f5c3b765dac302|8c1ec15fa856a70a|4b234c0bc5e79fe0|629549162||t19013.9581963241s|9a843cacf52dd2cd|24097|rds|vector|||0.047||
-trait_distance_matrix|stem|8a868b60019f6d39|fd0e319ec8665e53|d33dc56a48e221b4|867253829||t19013.9582277128s|dc0ff2d3f8a9eab3|1596663|rds|vector|||0.191||
-plastome_alignment|stem|22f45c670d98caec|c5e6b9652f669c3b|de6e0fc8f255184a|-1995505441||t19013.9581957685s|35d2d5e9f4f660d3|2099164|rds|vector|||70.636||
-comm_ferns|stem|7fcc5a232be95b27|f943b3cdb9a12367|c5113fdcfc08ddfe|-2012262806||t19013.9581931297s|6d008a18cbda6939|72038|rds|vector|||1.945||
-mean_climate|stem|76988daf8be76ed2|65efa5a0e8715594|1808ce0aeaf4c376|1100801111||t19013.9581956296s|8aa63cd2dedb626f|22570|rds|vector|||1.482||
-japan_fern_trait_tree|stem|b409d868cae22759|0c7b76960bfbdf47|f3a6f23e8589fece|1158506188||t19013.9581953519s|e26b080522601b48|19998|rds|vector|||0.016||
-plastome_tree|stem|9c6f7830006cf281|d95f8ba57dcf3034|1e862b0f89376ee0|-1449461031||t19013.9581957685s|2b44bdb7cee39a09|139237|rds|vector|||212965.114||
-comm_ferns_endemic|stem|f7a8b58e6b4e95f7|48b5f191db5a9fd1|2bfcdcd185637e7f|1394574314||t19013.9581931297s|189b0eef815ccd57|10618|rds|vector|||0.114||
-lat_span_summary|stem|f9a8063f6b3d2822|0f6017577799aa39|487ab3dce81aa2c2|2088138406||t19013.9581955834s|8ce841a0eea49c9d|10279|rds|vector|||0.79|st_centroid assumes attributes are constant over geometries of x|
-percent_apo|stem|ee86049e892bcad3|8b41631341639dfb|5af5b1b0b7950c90|-1077952829||t19013.9581956296s|ca95be5c7ad0b31c|9498|rds|vector|||0.117||
-k_taxonomy|stem|f2bb3a3ee9e143af|f054ce089b055628|9ab3ac3c8468841c|946708977||t19013.9581955834s|a8783347156db04c|1496407|rds|vector|||13.87||
-rand_test_traits_ferns|stem|dfb3f2cb9f8bc8b4|b2776a7bf4085cdc|4932cb8960c14a13|1111641660||t19013.9581962778s|47d8edec95e525ff|154592|rds|vector|||64.602|Dropping tips from the tree because they are not present in the community data  Athyrium_opacum, Cyathea_aramaganensis, Tomophyllum_sakaguchianum|
-plastome_tree_rooted|stem|8b9f666762c2fb2b|70baff996c3ba133|efd57ed29bb7a7bd|-1230701253||t19013.9581957685s|1186e4dcb2954aa3|139400|rds|vector|||0.025||
-regions_taxonomy|stem|3ac519274bb1ef53|2d9cd5a080d304a6|a7b90fff7957788f|1658924139||t19013.9581962778s|f74afc3f9a37b870|3269|rds|vector|||5.81||
-treepl_priming_results|stem|6fd8e6f39728e818|e405fe3cf92d5979|4a4a83447fce57de|-1376762369||t19013.9582277128s|d66bf6f3bfb0ed94|16264|rds|vector|||154.234||
-treepl_cv_results|stem|d3c8465b19833259|8e1be65c913b73fc|edb07f5cbbc562e0|1498371903||t19013.9582277128s|9712f9cb4307e5f0|183|rds|vector|||6853.61||
-treepl_dating_results|stem|5342c5e3af7f32c0|93e46eba88ee6b12|3345e7604acce03d|1322435271||t19013.9582277128s|7dd3559e3ba4b60d|138450|rds|vector|||2500.304||
-japan_pterido_tree|stem|c39f9a5772a62cf9|9ec7bb2f04dd1fbc|e933f11437fd4064|-841310252||t19013.9581953519s|31844a5d7165402a|22599|rds|vector|||0.018||
-japan_fern_tree_uncollapsed|stem|f8d2dae12fcef50f|5881a8d010384224|3a132b2b843f64b4|-1316654229||t19013.9581953519s|0d1f79f2d0f613f9|21297|rds|vector|||0.031||
-japan_fern_tree|stem|0a677b4bc3258637|d1a8cc2a770d8c19|5af5e40c502963e1|-455861567||t19013.9581953519s|fc77665686aa0a5f|20303|rds|vector|||2.616||
-binary_sig_results|stem|50397b55cb0e2435|4a33bd739706ebc0|8bdcec8f9bde534c|1933336815||t19013.9581928982s|0894a896d54ea448|2089|rds|vector|||172.847||
-phy_sig_results|stem|59fea658ed55baed|1b535aab8b2bfb93|0dbfd96dc9c809ad|461867680||t19013.9581956296s|44d8296aaebe8c60|317|rds|vector|||72.99||
-rand_test_phy_ferns_endemic|stem|ac60211b56116981|62f083aea431f337|deac96609a17a7e2|-1125808132||t19013.9581962778s|b9c454c350545137|134316|rds|vector|||22.166|Dropping tips from the tree because they are not present in the community data  Acrostichum_aureum, Ceratopteris_gaudichaudii_vulgaris, Ceratopteris_thalictroides, Onychium_japonicum, Pteris_kidoi, Pteris_multifida, Pteris_deltodon, Pteris_ryukyuensis, Pteris_nipponica, Pteris_cretica, Pteris_wallichiana, Pteris_maclurei, Pteris_tokioi, Pteris_setulosocostulata, Pteris_kawabatae, Pteris_kiuschiuensis, Pteris_fauriei, Pteris_oshimensis, Pteris_grevilleana, Pteris_perplexa, Pteris_ensiformis, Pteris_terminalis_fauriei, Pteris_terminalis_terminalis, Pteris_formosana, Pteris_semipinnata, Pteris_alata, Pteris_vittata, Cheilanthes_argentea, Cheilanthes_krameri, Cheilanthes_chusana, Adiantum_edgeworthii, Adiantum_capillusjunonis, Adiantum_monochlamys, Adiantum_flabellulatum, Adiantum_capillusveneris, Adiantum_pedatum, Adiantum_diaphanum, Antrophyum_formosanum, Antrophyum_obovatum, Haplopteris_angusteelongata, Haplopteris_zosterifolia, Haplopteris_flexuosa, Haplopteris_fudzinoi, Haplopteris_mediosora, Coniogramme_intermedia, Coniogramme_japonica, Cryptogramma_crispa, Cryptogramma_stelleri, Aglaomorpha_coronans, Drynaria_roosii, Selliguea_hastata, Selliguea_yakushimensis, Selliguea_engleri, Selliguea_veitchii, Lemmaphyllum_microphyllum, Lemmaphyllum_pyriforme, Neolepisorus_fortunei, Neolepisorus_ensatus, Lepidomicrosorium_buergerianum, Lepidomicrosorium_superficiale, Lepisorus_angustus, Lepisorus_tosaensis, Lepisorus_oligolepidus, Lepisorus_thunbergianus, Lepisorus_miyoshianus, Lepisorus_onoei, Lepisorus_ussuriensis_distans, Lepisorus_clathratus, Leptochilus_wrightii, Leptochilus_neopothifolius, Leptochilus_ellipticus, Leptochilus_hemionitideus, Leptochilus_decurrens, Leptochilus_pteropus, Microsorum_rubidum, Microsorum_insigne, Microsorum_scolopendria, Goniophlebium_formosanum, Goniophlebium_niponicum, Pyrrosia_hastata, Pyrrosia_linearifolia, Pyrrosia_adnascens, Pyrrosia_lingua, Pyrrosia_angustissima, Oreogrammitis_dorsipila, Micropolypodium_okuboi, Tomophyllum_sakaguchianum, Polypodium_vulgare, Polypodium_sibiricum|
-japan_fern_phylogram|stem|5b282fbcf03bde8a|f28c099c0c20a9b8|852792716869a4c9|-855156240||t19013.9581953519s|3a56ecb92b18403f|20717|rds|vector|||0.012||
-rand_test_phy_ferns|stem|f5a30fa0e3277829|e31dfd7ffc320f46|eb87c9614032709e|1107238637||t19013.9581962778s|7de53802fd537e72|308571|rds|vector|||141.414|Dropping tips from the tree because they are not present in the community data  Tomophyllum_sakaguchianum, Athyrium_opacum, Cyathea_aramaganensis|
-k_phylogeny|stem|221dfb28f2af049d|cbbd86a9e60501fb|2760e0c7de0d1a46|318451786||t19013.9581954908s|e8f80070ea60b2e4|5504675|rds|vector|||24.407||
-biodiv_ferns_endemic_spatial|stem|859ae1004ec0f96a|2b6431f924696267|a7fd657f67eac84d|1774503305||t19013.9581929445s|0717db2d4ac8a57a|89953|rds|vector|||2.667||
-rand_test_phy_ferns_not_ult|stem|a7530d92c92e1fb5|a4e402d159d01c26|f9d0c6c990833d97|-1910687855||t19013.9581962778s|d35aa5718fdfd39d|153512|rds|vector|||96.689|Dropping tips from the tree because they are not present in the community data  Tomophyllum_sakaguchianum, Athyrium_opacum, Cyathea_aramaganensis|
-regions_phylogeny|stem|5315e697226191a2|1b7e79b36e265e47|9a9615dda5f395b3|-1121203058||t19013.9581962778s|fda77824936bd0b3|3290|rds|vector|||2.72||
-biodiv_ferns_spatial_not_ult|stem|b762c77616cc3bb7|9bc7808bcc35cfbf|b36eb8bfaea653e1|-1576996537||t19013.9581930371s|0f66371089cb3cbf|125536|rds|vector|||2.252|st_centroid assumes attributes are constant over geometries of x|
-bioregions_raw|stem|72ebbfe1b1bc7402|258c88092198dca2|720f1ff873825fc2|134383||t19013.9581930371s|db496771b1b8dc6b|3588|rds|vector|||0.056||
-biodiv_ferns_not_ult|stem|21729c5ff0438603|2eeba2b611831156|a79af2f1c07ca32e|533923835||t19013.9581929445s|b73adea30254b1cb|44694|rds|vector|||0.184|Removed 3 rows containing missing values.|
-bioregions_all_labels|stem|090766a6e6cc79b3|c368d7ab409beafb|4bd31283044cc5c2|-1081194760||t19013.9581930371s|9b4cb3b78207de34|4076|rds|vector|||0.31|st_centroid assumes attributes are constant over geometries of x|
-bioregions|stem|ea1aaea57112cd07|305b226decba7b08|84e28c9524b823e4|1291179833||t19013.9581930371s|a81f33f7aaf4a844|3589|rds|vector|||0.475|st_centroid assumes attributes are constant over geometries of x|
-data_for_spamm_not_ult|stem|76ba9ff47c5058e7|8baed5fa4fe4c776|9879f469a093b7b5|-1945667310||t19013.9581950278s|20642a61646b3c84|89559|rds|vector||data_for_spamm_not_ult_cf90e048*data_for_spamm_not_ult_f4d99a3b|0.02||
-biodiv_ferns_spatial|stem|788cbf37d3cb21f8|5776e62d9ec98b6c|bdf7632f8f664bf9|614148138||t19013.9581929908s|ad37d331b9e6d15c|280883|rds|vector|||5.453|st_centroid assumes attributes are constant over geometries of x|
-spatial_models_not_ult_6be81b4d|branch|624b70b943b55e80|66c3ed0712af1e37|3d81c7e911d9152c|114605050||t19013.9582276202s|744f9357b693ae41|78624559|rds|vector|spatial_models_not_ult||212.252||
-spatial_models_not_ult_0d10f70d|branch|5770ad570b8ed7ce|66c3ed0712af1e37|c85c77012bfe1030|-1995968284||t19013.9582241943s|5d102e6019c62dae|78999650|rds|vector|spatial_models_not_ult||292.054||
-biodiv_ferns_cent|stem|2e4d1a62095a5549|065a29e2546d7710|3d487969b588bd6f|-1628847566||t19013.9581929445s|71a751d203f5c984|66007|rds|vector|||0.216|Removed 3 rows containing missing values.|
-t_test_results|stem|2123546a64ed1740|c8e8e3fb6b954b58|ae2e4c4af33e616b|484831019||t19013.9582276665s|969cddda92766793|772|rds|vector|||3.859|st_centroid assumes attributes are constant over geometries of x|
-deer_danger_biodiv|stem|2e484206bcd7fdbb|286ff65a2821c250|ed5412e2233a6ac2|-990367250||t19013.9581950741s|238edd335cba701f|234858|rds|vector|||14.287|attribute variables are assumed to be spatially constant throughout all geometries|
-biodiv_ferns_spatial_lumped|stem|80c532dde003c83f|b085b4858267fc44|dd6fa1af2da6b319|631500674||t19013.9581930371s|ce5c2ea4af08b0ae|280847|rds|vector|||0.019||
-protected_biodiv|stem|385bfed4a658a2fc|a67d2e98b51adef8|c6853625c46ebf09|-1172631737||t19013.9581962315s|36ad2e41dd52cf96|3868746|rds|vector|||151.532|attribute variables are assumed to be spatially constant throughout all geometries|
-biodiv_ferns_cent_figshare|stem|575736c0e8c94fc1|d8a1ad9c3fffb8f9|927e3d8e9877f477|-256109275||t19013.9581929445s|5153b0b71399e6b8|113077|rds|vector|||0.234|st_centroid assumes attributes are constant over geometries of x|
-model_fits_not_ult_1ac0a723|branch|0fe7045caa9e02f8|8de35ecb8c58cb4f|5c172a660b18c80b|2052623133||t19013.9581956296s|5e0deaec442d0efe|923|rds|vector|model_fits_not_ult||57.026||
-model_fits_not_ult_dbeb200a|branch|f519504f61296933|8de35ecb8c58cb4f|e156ca5d6f19da4a|-1221964080||t19013.9581956296s|3a1b6f7b11cba393|916|rds|vector|model_fits_not_ult||30.263||
-dist_list|stem|8d39b14b2100ba69|2dc90d37ce046ca2|30759f2a880d0b6d|-222278031||t19013.958195213s|55195c106a5c19c6|1959443|rds|vector|||19.245||
-data_for_spamm|stem|00da09cfc3b3db88|f791b6c3d8daabc1|3981bf33bf528e26|170910087||t19013.9581950278s|bf08dc86d3d16819|461668|rds|vector||data_for_spamm_d2a6d372*data_for_spamm_4f7152c3*data_for_spamm_0db619f1*data_for_spamm_881248d1*data_for_spamm_3b631494*data_for_spamm_41bf0685*data_for_spamm_a7ba72ae|0.034||
-signif_cells_deer_danger|stem|d945606a77be56e5|67518bf402b5ae8b|d36935fb7c63d7d8|-1845752541||t19013.9581963241s|c0bcc022442a2701|569|rds|vector|||0.234||
-signif_cells_protected_area|stem|3b0395419304fcb7|9d5c502df65437fe|5718bb12c3148bab|-2107137324||t19013.9581963241s|65e62fac1a4ffe81|495|rds|vector|||0.234||
-data_for_moran|stem|f2790ad23d4c9c6c|855c5b9a4c13f0e0|84422823c6ce19b2|2134285299||t19013.9581950278s|c72ea9296bb067ae|20253124|rds|vector||data_for_moran_278d8c2d*data_for_moran_64cb40dd*data_for_moran_9a638a07*data_for_moran_445012ce*data_for_moran_1bf6dc42*data_for_moran_8ab7511e*data_for_moran_46a78cbb*data_for_moran_1f64cb91*data_for_moran_c131b861*data_for_moran_05563c8e|0.038||
-spatial_models_d1b6439b|branch|8a953419da950f72|15e6855fc110348a|fd10eae47a9f50b9|-920951723||t19013.9582170184s|629e8ff81f422ce7|61339787|rds|vector|spatial_models||1574.791||
-spatial_models_7c53a0e0|branch|383cd9f3b4024ca2|15e6855fc110348a|46fee2a45228ecde|1729320846||t19013.9582141018s|cbf65a42f2985195|79351621|rds|vector|spatial_models||349.099||
-spatial_models_e03db944|branch|04e6e0e412f1ada1|15e6855fc110348a|799352172ce3ad04|1567114212||t19013.9582206295s|fdfe1b39ae5aaf9c|78698817|rds|vector|spatial_models||193.186||
-spatial_models_6b63c0c1|branch|c5e94809f2571d18|15e6855fc110348a|615c77ab5152e175|1160990775||t19013.9582034537s|0ddeb79af04c2ec5|79946190|rds|vector|spatial_models||338.09||
-spatial_models_6c42ac29|branch|dd41789edb1b072d|15e6855fc110348a|28d259885ac03454|1001462011||t19013.9582068333s|8e18508504e49d15|65770681|rds|vector|spatial_models||214.961||
-spatial_models_7c153c85|branch|3ae2143a7f5ecb10|15e6855fc110348a|a8a822eb1b75d7b8|-482497434||t19013.9582104444s|d029c7a08874dd59|78789594|rds|vector|spatial_models||195.578||
-spatial_models_5b5df6a5|branch|bd53984be45fb534|15e6855fc110348a|1e514e8ec7e5f05f|-728951062||t19013.9581998426s|0a30a9efb04000f2|79328575|rds|vector|spatial_models||427.024||
-morans_i_9eaa19d5|branch|652f8889dcad25b5|45ce504e6ae2915b|69f957e1e520332a|-1617693685||t19013.9581956296s|efcd02b2c80eadaa|298|rds|vector|morans_i||45.196||
-morans_i_49726682|branch|2bf9353d7803322f|45ce504e6ae2915b|d106cb6d9365062e|-1689604876||t19013.9581956296s|efcd02b2c80eadaa|298|rds|vector|morans_i||42.659||
-morans_i_b31ca86d|branch|a1197bf75d77efb0|45ce504e6ae2915b|5327d9f25171b3f5|-969302363||t19013.9581956296s|efcd02b2c80eadaa|298|rds|vector|morans_i||43.652||
-morans_i_a1cae4d4|branch|fb045010ce46e5bd|45ce504e6ae2915b|444ab9370e39bbca|210396211||t19013.9581956296s|0e56fdca6a5a4864|301|rds|vector|morans_i||42.013||
-morans_i_a94b54d7|branch|f7634a0112e6b344|45ce504e6ae2915b|03092e3b75e07094|-980011580||t19013.9581956296s|11016194afa2c5c5|297|rds|vector|morans_i||41.25||
-morans_i_c135b4e8|branch|bea8f85f172b0d30|45ce504e6ae2915b|737d5ce738aa0a41|-70494550||t19013.9581956296s|11016194afa2c5c5|297|rds|vector|morans_i||41||
-morans_i_27334d46|branch|388dfa30f24a9415|45ce504e6ae2915b|1d9f7971fa2161e5|723226635||t19013.9581956296s|a1eb2c1cc7ef6b38|294|rds|vector|morans_i||39.705||
-morans_i_fe57551f|branch|816f2c91616eb155|45ce504e6ae2915b|2b77346e0fe69bbd|-1631377738||t19013.9581956296s|a1eb2c1cc7ef6b38|294|rds|vector|morans_i||42.244||
-morans_i_a8754e74|branch|9809232d42e8510a|45ce504e6ae2915b|d1113db5c2913db8|1086160924||t19013.9581956296s|8587ccc456de1c8b|300|rds|vector|morans_i||42.297||
-morans_i_4013368b|branch|e7988fe060416072|45ce504e6ae2915b|98cddd31aea98617|985040898||t19013.9581956296s|365c3547718ef9a1|295|rds|vector|morans_i||34.961||
-data_for_lrt|stem|f2463057650a9d79|718e7a687b833ccc|90b3b5af8f5c21ae|-128746720||t19013.9581932685s|53f1d374f8c25f0a|2644268|rds|vector||data_for_lrt_5307bdde*data_for_lrt_15100b73*data_for_lrt_19a1b6ad*data_for_lrt_03fe0074*data_for_lrt_7b1ee780*data_for_lrt_40c352f3*data_for_lrt_60f821c7*data_for_lrt_a40ec669*data_for_lrt_7ac32184*data_for_lrt_ffe87f9b*data_for_lrt_bbafff01*data_for_lrt_20b29739*data_for_lrt_61bbe5ec*data_for_lrt_34fa21c5*data_for_lrt_49ddb6fa*data_for_lrt_28f0db5f*data_for_lrt_de78b14a*data_for_lrt_cd63f524*data_for_lrt_c7c8c04f*data_for_lrt_4c6dd76f*data_for_lrt_6b4fb41e*data_for_lrt_570c6bd3*data_for_lrt_63e6cf3a*data_for_lrt_02b64005*data_for_lrt_39a35e93*data_for_lrt_df1e8489*data_for_lrt_089fad50*data_for_lrt_7928e5ec*data_for_lrt_e25e075f*data_for_lrt_083fa4c4*data_for_lrt_f0e34ee8*data_for_lrt_f9be6811*data_for_lrt_1bcdf7de*data_for_lrt_e17ff3b4*data_for_lrt_c817069e*data_for_lrt_a55eea5d*data_for_lrt_9216b660*data_for_lrt_a0b27ceb*data_for_lrt_ac694d33*data_for_lrt_5c32a7f1|0.185||
-model_fits_55e3f6b3|branch|3b7dc18292dbf970|01281e76c3b6111f|d9c363aa631fab18|1418367735||t19013.9581956296s|4942d91646dd93bc|978|rds|vector|model_fits||31.486||
-model_fits_f183514b|branch|8a7e232e841d6f8a|01281e76c3b6111f|07ff9acb23dc807f|-1625135711||t19013.9581956296s|800f3c51ba1e8b9f|995|rds|vector|model_fits||33.053||
-model_fits_a99bb3b4|branch|236a67d2492105af|01281e76c3b6111f|e2eec9c678e536e3|-369098992||t19013.9581956296s|b16e220116f99789|997|rds|vector|model_fits||56.235||
-model_fits_86b4f232|branch|1fe4db37b32be42f|01281e76c3b6111f|ccb76c73268d19c2|-840707630||t19013.9581956296s|800f3c51ba1e8b9f|995|rds|vector|model_fits||41.002||
-model_fits_71bff899|branch|3c0295597ae1a8d1|01281e76c3b6111f|0f794274049b8282|685130268||t19013.9581956296s|800f3c51ba1e8b9f|995|rds|vector|model_fits||47.416||
-model_fits_cfb1bb9b|branch|c7942b9180022363|01281e76c3b6111f|d4e5bb1710df4d1e|-93618103||t19013.9581956296s|5e0deaec442d0efe|923|rds|vector|model_fits||56.484||
-model_fits_05e13f0c|branch|f0250853bddf697d|01281e76c3b6111f|57b592c5b9ba97b4|1201365746||t19013.9581956296s|22a13f8630a33941|914|rds|vector|model_fits||37.344||
-aic_env_repro|stem|2dad7e98ac71cca4|04a0c1819687c65b|3a8f198f4cf21624|-482095689||t19013.9581928982s|a07afd8ce5bf6aa9|466|rds|vector|||14.019||
-model_params|stem|66e4b6759d1455ba|ce16237aaa05ee13|684b9496a11791e7|2101287320||t19013.9581956296s|b20b1bbbf4a1d6a3|1487|rds|vector|||15.256||
-model_stats|stem|6b46b2b3c6b7a196|83547970868fa7fe|68712248321761dd|874067978||t19013.9581956296s|51f7ad908b9e68b5|629|rds|vector|||0.079||
-lrt_results_856277d8|branch|cd4465d135acf392|1a475fd6e7bb24c7|e056c76305a0ed51|474370941||t19013.9581955834s|7e50109c4a0b197a|346|rds|vector|lrt_results||979.98||
-lrt_results_72b2a969|branch|a470e245331a32f6|1a475fd6e7bb24c7|eb8914bee4aed78c|-2052930084||t19013.9581955834s|c300aeef4648a6fd|342|rds|vector|lrt_results||1026.999||
-lrt_results_ae3efa14|branch|9bb31f79f389d872|1a475fd6e7bb24c7|59b94e8d0a44c237|-1059683921||t19013.9581955834s|ef35a6441324dad1|348|rds|vector|lrt_results||870.406||
-lrt_results_0425e56c|branch|6974d2fd072b2197|1a475fd6e7bb24c7|165773768e606783|788285326||t19013.9581955834s|ef79ded412b140f0|349|rds|vector|lrt_results||730.129||
-lrt_results_3992471b|branch|341472b02b27d97c|1a475fd6e7bb24c7|3066780037d98583|1904119217||t19013.9581955834s|ef35a6441324dad1|348|rds|vector|lrt_results||866.923||
-lrt_results_aefd6895|branch|88ed609143953016|1a475fd6e7bb24c7|3f7ad5a41e8a59d0|118431307||t19013.9581955834s|ef35a6441324dad1|348|rds|vector|lrt_results||988.121||
-lrt_results_82d22a84|branch|dff3485e2bac517e|1a475fd6e7bb24c7|97f094a461f58e6e|-1628752379||t19013.9581955834s|53ebb00e2399067e|355|rds|vector|lrt_results||1462.073||
-lrt_results_055b418f|branch|054e3d44ea7e91b3|1a475fd6e7bb24c7|aab81420ad6e47c6|1487502367||t19013.9581955834s|c00122ae53f3dfad|352|rds|vector|lrt_results||1772.392||
-lrt_results_e7b48e0a|branch|2eee3dc6b224db76|1a475fd6e7bb24c7|4bd2f3a37dd7b36b|-43460815||t19013.9581955834s|c00122ae53f3dfad|352|rds|vector|lrt_results||1468.455||
-lrt_results_5f1fc018|branch|9fe81f96cf5e519d|1a475fd6e7bb24c7|69b0814267df3602|493817760||t19013.9581955834s|2da402a946d20212|354|rds|vector|lrt_results||1430.235||
-lrt_results_6d56c77d|branch|d0aa2eb220cea9f4|1a475fd6e7bb24c7|70d2d061c66a65f0|-994824740||t19013.9581955834s|905688308fb113f7|351|rds|vector|lrt_results||1799.503||
-lrt_results_6ca299da|branch|ad15c7373d436332|1a475fd6e7bb24c7|fef5892cb9aba2c4|-868516206||t19013.9581955834s|53ebb00e2399067e|355|rds|vector|lrt_results||2111.163||
-lrt_results_edb984f0|branch|559441c590d81508|1a475fd6e7bb24c7|25641844442d1b71|654869583||t19013.9581955834s|a716db876c9596cc|353|rds|vector|lrt_results||833.428||
-lrt_results_346f6f31|branch|33fae507680e87c9|1a475fd6e7bb24c7|9fab4bbdb15357a0|-734618564||t19013.9581955834s|ef79ded412b140f0|349|rds|vector|lrt_results||749.202||
-lrt_results_e8f9ff66|branch|37f8d7a9d9fff903|1a475fd6e7bb24c7|0829066fb1f252a0|1010419773||t19013.9581955834s|905688308fb113f7|351|rds|vector|lrt_results||683.04||
-lrt_results_89564e07|branch|32ff03271acdc1f0|1a475fd6e7bb24c7|6cfc66cdd0819f9c|-753685563||t19013.9581955834s|905688308fb113f7|351|rds|vector|lrt_results||655.223||
-lrt_results_25a80851|branch|81112a0f9876f228|1a475fd6e7bb24c7|c8bc686db9a3d08b|693663101||t19013.9581955834s|905688308fb113f7|351|rds|vector|lrt_results||651.511||
-lrt_results_158f6059|branch|1e9b75c42a1d796f|1a475fd6e7bb24c7|8fb366a54594f9e6|-1152469043||t19013.9581955834s|15a2beec65aeeb81|357|rds|vector|lrt_results||1552.915||
-lrt_results_999fa245|branch|934c225d7f14b318|1a475fd6e7bb24c7|2102668c96e3bdd0|-2101054207||t19013.9581955834s|2da402a946d20212|354|rds|vector|lrt_results||1675.76||
-lrt_results_179b192c|branch|9d146f716b854a03|1a475fd6e7bb24c7|5dd6b08d0fac39da|1994539911||t19013.9581955834s|ef79ded412b140f0|349|rds|vector|lrt_results||1776.679||
-lrt_results_965fc00b|branch|709103dfd331e3eb|1a475fd6e7bb24c7|0d6d283c7547f8be|72713330||t19013.9581955834s|a716db876c9596cc|353|rds|vector|lrt_results||1330.68||
-lrt_results_398222e7|branch|060cb3066c560c17|1a475fd6e7bb24c7|8630d837598b7aa2|9695739||t19013.9581955834s|a716db876c9596cc|353|rds|vector|lrt_results||1487.687||
-lrt_results_80d35bad|branch|dfa8a04d5bf3f4e8|1a475fd6e7bb24c7|3652cba144a3e01c|878784578||t19013.9581955834s|a716db876c9596cc|353|rds|vector|lrt_results||1039.806||
-lrt_results_6fe58e9b|branch|b2b115407fe6e1d2|1a475fd6e7bb24c7|186365743eb8bb51|1406608516||t19013.9581955834s|b81895e14878e86f|359|rds|vector|lrt_results||1580.306||
-lrt_results_9d48af84|branch|0e4df5df1786e797|1a475fd6e7bb24c7|5113db7882f3ba27|-1382530970||t19013.9581955834s|53ebb00e2399067e|355|rds|vector|lrt_results||1751.355||
-lrt_results_27ea120c|branch|c23c68aef02bbcd8|1a475fd6e7bb24c7|7dc4afddee0225b2|-377954017||t19013.9581955834s|ef35a6441324dad1|348|rds|vector|lrt_results||707.892||
-lrt_results_307d09be|branch|ed1068dee8dc5a2c|1a475fd6e7bb24c7|5ab575efc931508b|-770007894||t19013.9581955834s|905688308fb113f7|351|rds|vector|lrt_results||808.444||
-lrt_results_10fc1a9f|branch|2509e725cadf473b|1a475fd6e7bb24c7|f4efcadd61cc202f|1065857106||t19013.9581955834s|2da402a946d20212|354|rds|vector|lrt_results||797.939||
-lrt_results_fe81718f|branch|85d4f9c9ace3e754|1a475fd6e7bb24c7|68c657a5284fac8a|-1571721163||t19013.9581955834s|2da402a946d20212|354|rds|vector|lrt_results||719.574||
-lrt_results_4800dafd|branch|52904b1f47eb9d9b|1a475fd6e7bb24c7|a24150154f8ddda7|-1191895889||t19013.9581955834s|b81895e14878e86f|359|rds|vector|lrt_results||1430.186||
-lrt_results_1c6cc8bc|branch|9aeb62595d076fee|1a475fd6e7bb24c7|569c3da21b74fe65|1276466263||t19013.9581955834s|ee143e4c8ea21b7d|350|rds|vector|lrt_results||1251.08||
-lrt_results_f67d23dd|branch|0c03377005a1c07b|1a475fd6e7bb24c7|b1d314925e5876f5|2050507075||t19013.9581955834s|0f05aa39aab40022|347|rds|vector|lrt_results||1200.942||
-lrt_results_d3163b75|branch|04f6b31017777ae5|1a475fd6e7bb24c7|5e724dd4b0fd1b80|1309346679||t19013.9581955834s|ef79ded412b140f0|349|rds|vector|lrt_results||554.105||
-lrt_results_f015b531|branch|2722fcf4b1a78c62|1a475fd6e7bb24c7|a3129fb65086f736|-806930624||t19013.9581955834s|ef79ded412b140f0|349|rds|vector|lrt_results||566.858||
-lrt_results_8e2832c4|branch|47604a2c7310def3|1a475fd6e7bb24c7|f4ee3f1a26e4feb4|-804033515||t19013.9581955834s|a716db876c9596cc|353|rds|vector|lrt_results||1283.642||
-lrt_results_b7251360|branch|a9d34f3a40f32411|1a475fd6e7bb24c7|8f9ceb3a9f97c6f2|489152938||t19013.9581955834s|ee143e4c8ea21b7d|350|rds|vector|lrt_results||1130.423||
-lrt_results_9d1d6e93|branch|c685d6af1e605e0b|1a475fd6e7bb24c7|3e3b43b8f30bbe2a|-412567625||t19013.9581955834s|905688308fb113f7|351|rds|vector|lrt_results||1293.6||
-lrt_results_273da407|branch|d1768ba00c1dff8b|1a475fd6e7bb24c7|0c7672a72c915575|-169473280||t19013.9581955834s|905688308fb113f7|351|rds|vector|lrt_results||1112.608||
-lrt_results_73cb1fb9|branch|6f4d6721e4cc4c01|1a475fd6e7bb24c7|9a302c944c858638|1664318409||t19013.9581955834s|c00122ae53f3dfad|352|rds|vector|lrt_results||1043.596||
-lrt_results_0f91ba73|branch|17c0db3bae53402e|1a475fd6e7bb24c7|f8b0619b0d392d2d|193686109||t19013.9581955834s|d6f6cb245ef27b75|356|rds|vector|lrt_results||1052.382||
-data_readme|stem|09cf1d6b0cfa3f26|6ec31d809a0d8226|6b64238266309f9b|588561285|results/data_readme.rtf*ms/data_readme.Rmd|t19014.9206145709s|5da51d1ae5559d97|74329|file|vector|||12.734||
+japan_ferns_comm_full_file|stem|00e4f8555f1d7806|2b8705b31177fe8b|ef46db3751d8e999|1710636705|data/japan_ferns_comm_full.csv|t18988.5658564815s|67bca2e215bd0c79|1875831|file|vector|||0.003||
+raw_trait_data_file|stem|11e51df20ad5e9e8|5e960dfe34935f3d|ef46db3751d8e999|-1603226139|data/japan_ferns_traits_lucid.csv|t18988.5641435185s|1bf53d171b6ab3d4|718148|file|vector|||0.002||
+ja_climate_data_file|stem|a20add08053d1170|32c7a1eed79fbe3e|ef46db3751d8e999|2015311699|data/japan_climate.gpkg|t18988.5641435185s|2ca16233f9450f75|16887808|file|vector|||0.003||
+mollweide|stem|d4ace9da4af79f5a|91b536b0662077d5|ef46db3751d8e999|1706575814||t19014.1380513887s|36500b95d6893aee|74|rds|vector|||0.003||
+indep_vars|stem|9038274752bc273a|42c8e0bcd690c92f|a3dad144c40657ed|-795253454||t19014.1380511109s|887021b347b02e8f|100|rds|vector|||0.002||
+resp_vars_repro|stem|a5b26dec10ddd77b|d5b0fcbb43cf6f7f|a3dad144c40657ed|1399745628||t19014.1380520369s|425d385953b3c542|67|rds|vector|||0.003||
+bioregion_cutoff|stem|403c8f1bac9bb598|794b13eddf1090d6|ef46db3751d8e999|1533615293||t19014.1380495368s|ded833868582137a|50|rds|vector|||0.003||
+japan_map_file|stem|fef0af397b7e04fa|93fc93d5327c8436|ef46db3751d8e999|-321219903|data/japan_map.gpkg|t18988.5676157407s|04171334169bbea8|1003520|file|vector|||0.003||
+ebihara_2019_zip_file|stem|79ea80b20f2051a5|2f29d10237e3e299|ef46db3751d8e999|472149545|data/doi_10.5061_dryad.4362p32__v4.zip|t18988.5756828704s|c2372e2c64b8eb8a|189329184|file|vector|||0.002||
+redundancy_by_res_file|stem|82f77ec474af2428|3549d51929366035|ef46db3751d8e999|1394163820|data/japan_ferns_redundancy_by_res.csv|t18988.5658217593s|7ea5029565092979|238464|file|vector|||0.002||
+resp_vars_env|stem|04abeb36d6421606|06af9dbdb60cc0c2|a3dad144c40657ed|-162322265||t19014.1380520369s|0b52c5847220add9|82|rds|vector|||0.002||
+calibration_dates_file|stem|414baef7f4d562c1|79bff504ad92f461|ef46db3751d8e999|-1549787450|data/testo_sundue_2016_calibrations.csv|t18988.5762384259s|71206e4091e31666|3293|file|vector|||0.003||
+japan_map_points_file|stem|019672cc57545a8a|ea13afe57e51d79c|ef46db3751d8e999|-1124735430|data/japan_map_points.csv|t18988.5771296296s|fccdc8db6f16d537|659|file|vector|||0.003||
+inext_res_file|stem|3b4945a25ddcb38a|c0d8284907f77b98|ef46db3751d8e999|500026415|data/japan_ferns_inext_results.csv|t18988.565150463s|18673077be177a64|2113|file|vector|||0.002||
+japan_ferns_shape_full_file|stem|f94915eb822d291e|112d8669e994e78f|ef46db3751d8e999|293181531|data/japan_ferns_shape_full.gpkg|t18988.5658333333s|3028a4e9e72ca804|401408|file|vector|||0.003||
+ftol_zip_file|stem|ba346cda1b8a8711|7e9c14e888387f6c|ef46db3751d8e999|-1780443117|data/ftol_data_release_v0.0.1.zip|t18988.5763541667s|49a6b917ae8fa8c1|5669458|file|vector|||0.003||
+deer_range_file|stem|5caa63bb36f9ad12|fad46b1074603a85|ef46db3751d8e999|-2104922289|data/japan_deer_range.gpkg|t18988.5656828704s|ad1c7fb11ff1a4c4|626688|file|vector|||0.002||
+occ_point_data_summary_file|stem|e429a23d534599e1|a6c0b6de6e893a1f|ef46db3751d8e999|-1216887977|data/japan_ferns_occ_summary.csv|t18988.565150463s|11684eb95dbf8c0d|189|file|vector|||0.003||
+protected_areas_file|stem|78b1b9722a423477|ce7e9d5c2f32ead9|ef46db3751d8e999|-230899529|data/japan_protected_areas.gpkg|t18988.5674305556s|781db49f10a2eadf|27508736|file|vector|||0.003||
+test_results|stem|da7a3dad7a31c553|0ec249e8500318df|327ec6fbae1e7bb8|1051836653||t19014.9383887109s|ac45463db19e2cbe|48|rds|vector|||0.293||
+cont_traits|stem|2641754293dc5e0c|5f8e2a42aab4ea95|a3dad144c40657ed|1242582138||t19014.1380495831s|dfd0d40dc0c5171b|95|rds|vector|||0.003||
+comm_ferns_full|stem|e84809fbc97d643c|e58b2b718b8f7699|b54d6e0a9a6b7afb|-425450970||t19014.1380495831s|44add0c4e341d3f1|77767|rds|vector|||1.794||
+fern_traits|stem|dbf247f1a134042a|05f33816a3b2633d|c7fa292ad11e3e5b|-498007679||t19014.1380511109s|2f77f14c061ecfd3|15320|rds|vector|||5.227|the standard deviation is zero|
+ja_climate_data|stem|589813c1c2f1e80d|fe9d253d85184e86|e14650882029bc22|-1879880584||t19014.1380512035s|fbeeecb5b32bf826|1632474|rds|vector|||3.083||
+japan_shp|stem|ec74a23a2ce5e736|f706d857cb1eba68|b0e481f6b00e252f|-1484105572||t19014.1380512035s|4c1ba487c11c6f64|753355|rds|vector|||0.146||
+green_list|stem|8c74b3c85c86fd52|6629d4d955b76bb2|71a7332a1df36325|1919936795||t19014.1380511109s|b8a3f581b02fa4d4|26734|rds|vector|||0.703||
+japan_rbcL_raw|stem|dccf96952f629d86|14ac3eb966269e5a|938076ebcf27d209|-670929324||t19014.1380512035s|475819645751f46e|33381|rds|vector|||5.317||
+repro_data_raw|stem|66a9f6a842e38888|ce9422450ef5e666|ae8a0afa92ee029b|1032455018||t19014.1380520369s|c6735516249522a5|17946|rds|vector|||0.32||
+ppgi|stem|d733130ec4975da2|acb14973b3ef79aa|c3a70ee71669ebf0|-1156433641||t19014.1380515276s|20879e49aa487420|2838|rds|vector|||0.84||
+redundancy_by_res|stem|a376ace65cc0a53a|69e2f101eb6ae84f|86d97c24bba528df|1466649122||t19014.1380520369s|d67a575b2a019580|73684|rds|vector|||0.142||
+plastome_calibration_dates|stem|fa1bd2909c175471|752088fb941d5dad|36cd5ee6837a75b9|-556592904||t19014.1380515276s|3d2c40b5e8ca1f8e|1743|rds|vector|||0.397||
+japan_map_points|stem|ea44fb569bee4b03|d3ecbbcda19f3935|1c969fb07d62a7b9|-1559558123||t19014.1380512035s|d57738d6411fcd8b|796|rds|vector|||0.227||
+inext_res|stem|3539f8bfb9437d3c|fdb1bd8576e3d749|5e0bc15712d61f24|-1081504402||t19014.1380511109s|106c719ef5cbb527|1249|rds|vector|||0.176||
+shape_ferns_full|stem|df6aa5153f67e4cc|0e6af604fe8568a6|c99613afafda764e|693816045||t19014.1380520369s|b912a7dbc812e829|25898|rds|vector|||0.123||
+broad_alignment_list|stem|5766c75b759e3d14|e0c462c2e4f94a53|99db2180109e1f4d|299154881||t19014.1380495831s|d711088dce6b7388|1635022|rds|vector|||25.538||
+deer_range|stem|7e3d5535c017b217|0614c709fe1b91e4|32a24543c63205c0|-380236377||t19014.138050972s|c8f7f71321987baa|320078|rds|vector|||0.103||
+occ_point_data_summary|stem|8dfc469e59f6d1bd|3651d67668009acb|0ea6c3742408ac3a|-1262319508||t19014.1380513887s|e49c0adc34fa3713|370|rds|vector|||0.198||
+protected_areas|stem|d8adcc2f24fe6e36|b062768ab2752c38|8678e66c89b07e7b|1052823572||t19014.1380519443s|56e1463cf55c85bf|22392567|rds|vector|||2.558||
+traits_for_dist|stem|77e59dddfcd1f5f3|075360e407ffe19b|dc053378675f33d9|149968410||t19014.9383900999s|8f38db1dd07ba0e7|18164|rds|vector|||0.06||
+fern_traits_binary|stem|f1d991b1565995e7|717c84a82c89d031|7fabd0ccd809ba44|-1781331719||t19014.1380511109s|2bfb3acd801284f5|11141|rds|vector|||0.003||
+fern_traits_figshare_file|stem|24bfdc6833b91ccd|9dfbf9724282081a|6c18342baeac3fe9|1560003471|results/figshare_files/japan_ferns_traits.csv|t19014.9383922296s|d6693626596d340e|126668|file|vector|||0.176||
+traits_summary|stem|ab1aff77927d99e8|642a06d749e7f05e|eee41d61cf7a33db|-197676072||t19014.9383926926s|476aaeddbf8d904d|261|rds|vector|||0.031||
+lat_area_ja|stem|1fb10afb1bd2601e|c99f0887c5d0daf2|f41280b1136bf095|-922049873||t19014.1380513887s|b6f21f2597fd73ce|1734|rds|vector|||9.231||
+japan_rbcL|stem|25097d5b84b7ea80|eb025303fcc1d67e|323eb4dd34130f26|-1908622303||t19014.1380512035s|82d807efb61c96e4|38092|rds|vector|||0.058||
+repro_data|stem|0ee0e4ba25f6e33f|f7d78bd42ec9a136|c3f6659392527df1|-1031197902||t19014.1380520369s|38b88a418f875bc9|9647|rds|vector|||0.13||
+shape_ferns|stem|53f5c3b765dac302|8c1ec15fa856a70a|4b234c0bc5e79fe0|629549162||t19014.1380520369s|9a843cacf52dd2cd|24097|rds|vector|||0.047||
+trait_distance_matrix|stem|8a868b60019f6d39|fd0e319ec8665e53|d33dc56a48e221b4|867253829||t19014.9383961186s|dc0ff2d3f8a9eab3|1596663|rds|vector|||0.163||
+plastome_alignment|stem|22f45c670d98caec|c5e6b9652f669c3b|de6e0fc8f255184a|-1995505441||t19014.1380515276s|35d2d5e9f4f660d3|2099164|rds|vector|||70.636||
+comm_ferns|stem|7fcc5a232be95b27|f943b3cdb9a12367|c5113fdcfc08ddfe|-2012262806||t19014.1380495831s|6d008a18cbda6939|72038|rds|vector|||1.945||
+mean_climate|stem|76988daf8be76ed2|65efa5a0e8715594|1808ce0aeaf4c376|1100801111||t19014.1380513887s|8aa63cd2dedb626f|22570|rds|vector|||1.482||
+shape_ferns_figshare_file|stem|336c59546f2cba4f|ee88e7c6bfed712c|c41bc54582b8a140|934154287|results/figshare_files/japan_ferns_shape.gpkg|t19014.9383974612s|8e8e6f3421800266|368640|file|vector|||0.084||
+japan_fern_trait_tree|stem|b409d868cae22759|0c7b76960bfbdf47|f3a6f23e8589fece|1158506188||t19014.1380512035s|e26b080522601b48|19998|rds|vector|||0.016||
+plastome_tree|stem|9c6f7830006cf281|d95f8ba57dcf3034|1e862b0f89376ee0|-1449461031||t19014.1380515276s|2b44bdb7cee39a09|139237|rds|vector|||212965.114||
+comm_ferns_endemic|stem|f7a8b58e6b4e95f7|48b5f191db5a9fd1|2bfcdcd185637e7f|1394574314||t19014.1380495831s|189b0eef815ccd57|10618|rds|vector|||0.114||
+lat_span_summary|stem|f9a8063f6b3d2822|0f6017577799aa39|487ab3dce81aa2c2|2088138406||t19014.1380513887s|8ce841a0eea49c9d|10279|rds|vector|||0.79|st_centroid assumes attributes are constant over geometries of x|
+percent_apo|stem|ee86049e892bcad3|8b41631341639dfb|5af5b1b0b7950c90|-1077952829||t19014.1380513887s|ca95be5c7ad0b31c|9498|rds|vector|||0.117||
+k_taxonomy|stem|f2bb3a3ee9e143af|f054ce089b055628|9ab3ac3c8468841c|946708977||t19014.1380513887s|a8783347156db04c|1496407|rds|vector|||13.87||
+comm_ferns_figshare_file|stem|ac12d38174a99279|84d02c2fb93678ff|4f53dbf50e0e21ba|-631997561|results/figshare_files/japan_ferns_comm.csv|t19014.9383993594s|69b048981257383b|1686837|file|vector|||0.133||
+rand_test_traits_ferns|stem|dfb3f2cb9f8bc8b4|b2776a7bf4085cdc|4932cb8960c14a13|1111641660||t19014.1380520369s|47d8edec95e525ff|154592|rds|vector|||64.602|Dropping tips from the tree because they are not present in the community data  Athyrium_opacum, Cyathea_aramaganensis, Tomophyllum_sakaguchianum|
+plastome_tree_rooted|stem|8b9f666762c2fb2b|70baff996c3ba133|efd57ed29bb7a7bd|-1230701253||t19014.1380515276s|1186e4dcb2954aa3|139400|rds|vector|||0.025||
+regions_taxonomy|stem|3ac519274bb1ef53|2d9cd5a080d304a6|a7b90fff7957788f|1658924139||t19014.1380520369s|f74afc3f9a37b870|3269|rds|vector|||5.81||
+treepl_priming_results|stem|6fd8e6f39728e818|e405fe3cf92d5979|4a4a83447fce57de|-1376762369||t19014.9399543661s|d66bf6f3bfb0ed94|16264|rds|vector|||133.156||
+treepl_cv_results|stem|b6d64e88f74305b1|8e1be65c913b73fc|edb07f5cbbc562e0|1498371903||t19015.0096927396s|b2a37e7acd6b186f|188|rds|vector|||6025.39||
+treepl_dating_results|stem|5342c5e3af7f32c0|93e46eba88ee6b12|1f8f5b1097ffb939|1322435271||t19060.324332937s|7dd3559e3ba4b60d|138450|rds|vector|||2294.873||
+japan_pterido_tree|stem|c39f9a5772a62cf9|9ec7bb2f04dd1fbc|e933f11437fd4064|-841310252||t19014.1380512035s|31844a5d7165402a|22599|rds|vector|||0.018||
+japan_fern_tree_uncollapsed|stem|f8d2dae12fcef50f|5881a8d010384224|3a132b2b843f64b4|-1316654229||t19014.1380512035s|0d1f79f2d0f613f9|21297|rds|vector|||0.031||
+japan_fern_tree|stem|0a677b4bc3258637|d1a8cc2a770d8c19|5af5e40c502963e1|-455861567||t19014.1380512035s|fc77665686aa0a5f|20303|rds|vector|||2.616||
+rand_test_phy_ferns_endemic|stem|ac60211b56116981|62f083aea431f337|deac96609a17a7e2|-1125808132||t19014.1380520369s|b9c454c350545137|134316|rds|vector|||22.166|Dropping tips from the tree because they are not present in the community data  Acrostichum_aureum, Ceratopteris_gaudichaudii_vulgaris, Ceratopteris_thalictroides, Onychium_japonicum, Pteris_kidoi, Pteris_multifida, Pteris_deltodon, Pteris_ryukyuensis, Pteris_nipponica, Pteris_cretica, Pteris_wallichiana, Pteris_maclurei, Pteris_tokioi, Pteris_setulosocostulata, Pteris_kawabatae, Pteris_kiuschiuensis, Pteris_fauriei, Pteris_oshimensis, Pteris_grevilleana, Pteris_perplexa, Pteris_ensiformis, Pteris_terminalis_fauriei, Pteris_terminalis_terminalis, Pteris_formosana, Pteris_semipinnata, Pteris_alata, Pteris_vittata, Cheilanthes_argentea, Cheilanthes_krameri, Cheilanthes_chusana, Adiantum_edgeworthii, Adiantum_capillusjunonis, Adiantum_monochlamys, Adiantum_flabellulatum, Adiantum_capillusveneris, Adiantum_pedatum, Adiantum_diaphanum, Antrophyum_formosanum, Antrophyum_obovatum, Haplopteris_angusteelongata, Haplopteris_zosterifolia, Haplopteris_flexuosa, Haplopteris_fudzinoi, Haplopteris_mediosora, Coniogramme_intermedia, Coniogramme_japonica, Cryptogramma_crispa, Cryptogramma_stelleri, Aglaomorpha_coronans, Drynaria_roosii, Selliguea_hastata, Selliguea_yakushimensis, Selliguea_engleri, Selliguea_veitchii, Lemmaphyllum_microphyllum, Lemmaphyllum_pyriforme, Neolepisorus_fortunei, Neolepisorus_ensatus, Lepidomicrosorium_buergerianum, Lepidomicrosorium_superficiale, Lepisorus_angustus, Lepisorus_tosaensis, Lepisorus_oligolepidus, Lepisorus_thunbergianus, Lepisorus_miyoshianus, Lepisorus_onoei, Lepisorus_ussuriensis_distans, Lepisorus_clathratus, Leptochilus_wrightii, Leptochilus_neopothifolius, Leptochilus_ellipticus, Leptochilus_hemionitideus, Leptochilus_decurrens, Leptochilus_pteropus, Microsorum_rubidum, Microsorum_insigne, Microsorum_scolopendria, Goniophlebium_formosanum, Goniophlebium_niponicum, Pyrrosia_hastata, Pyrrosia_linearifolia, Pyrrosia_adnascens, Pyrrosia_lingua, Pyrrosia_angustissima, Oreogrammitis_dorsipila, Micropolypodium_okuboi, Tomophyllum_sakaguchianum, Polypodium_vulgare, Polypodium_sibiricum|
+binary_sig_results|stem|50397b55cb0e2435|4a33bd739706ebc0|8bdcec8f9bde534c|1933336815||t19014.1380493979s|0894a896d54ea448|2089|rds|vector|||172.847||
+japan_fern_phylogram|stem|5b282fbcf03bde8a|f28c099c0c20a9b8|852792716869a4c9|-855156240||t19014.1380512035s|3a56ecb92b18403f|20717|rds|vector|||0.012||
+rand_test_phy_ferns_not_ult|stem|a7530d92c92e1fb5|a4e402d159d01c26|f9d0c6c990833d97|-1910687855||t19014.1380520369s|d35aa5718fdfd39d|153512|rds|vector|||96.689|Dropping tips from the tree because they are not present in the community data  Tomophyllum_sakaguchianum, Athyrium_opacum, Cyathea_aramaganensis|
+biodiv_ferns_spatial_not_ult|stem|b762c77616cc3bb7|9bc7808bcc35cfbf|b36eb8bfaea653e1|-1576996537||t19014.1380495368s|0f66371089cb3cbf|125536|rds|vector|||2.252|st_centroid assumes attributes are constant over geometries of x|
+biodiv_ferns_not_ult|stem|21729c5ff0438603|2eeba2b611831156|a79af2f1c07ca32e|533923835||t19014.1380494442s|b73adea30254b1cb|44694|rds|vector|||0.184|Removed 3 rows containing missing values.|
+data_for_spamm_not_ult|stem|76ba9ff47c5058e7|8baed5fa4fe4c776|9879f469a093b7b5|-1945667310||t19014.138050972s|20642a61646b3c84|89559|rds|vector||data_for_spamm_not_ult_cf90e048*data_for_spamm_not_ult_f4d99a3b|0.02||
+rand_test_phy_ferns|stem|f5a30fa0e3277829|e31dfd7ffc320f46|eb87c9614032709e|1107238637||t19014.1380520369s|7de53802fd537e72|308571|rds|vector|||141.414|Dropping tips from the tree because they are not present in the community data  Tomophyllum_sakaguchianum, Athyrium_opacum, Cyathea_aramaganensis|
+k_phylogeny|stem|221dfb28f2af049d|cbbd86a9e60501fb|2760e0c7de0d1a46|318451786||t19014.1380512961s|e8f80070ea60b2e4|5504675|rds|vector|||24.407||
+regions_phylogeny|stem|5315e697226191a2|1b7e79b36e265e47|9a9615dda5f395b3|-1121203058||t19014.1380520369s|fda77824936bd0b3|3290|rds|vector|||2.72||
+bioregions_raw|stem|72ebbfe1b1bc7402|258c88092198dca2|720f1ff873825fc2|134383||t19014.1380495368s|db496771b1b8dc6b|3588|rds|vector|||0.056||
+bioregions_all_labels|stem|090766a6e6cc79b3|c368d7ab409beafb|4bd31283044cc5c2|-1081194760||t19014.1380495368s|9b4cb3b78207de34|4076|rds|vector|||0.31|st_centroid assumes attributes are constant over geometries of x|
+bioregions|stem|ea1aaea57112cd07|305b226decba7b08|84e28c9524b823e4|1291179833||t19014.1380495368s|a81f33f7aaf4a844|3589|rds|vector|||0.475|st_centroid assumes attributes are constant over geometries of x|
+biodiv_ferns_spatial|stem|788cbf37d3cb21f8|5776e62d9ec98b6c|bdf7632f8f664bf9|614148138||t19014.1380494905s|ad37d331b9e6d15c|280883|rds|vector|||5.453|st_centroid assumes attributes are constant over geometries of x|
+biodiv_ferns_cent|stem|2e4d1a62095a5549|065a29e2546d7710|3d487969b588bd6f|-1628847566||t19014.1380494442s|71a751d203f5c984|66007|rds|vector|||0.216|Removed 3 rows containing missing values.|
+deer_danger_biodiv|stem|2e484206bcd7fdbb|286ff65a2821c250|ed5412e2233a6ac2|-990367250||t19014.138050972s|238edd335cba701f|234858|rds|vector|||14.287|attribute variables are assumed to be spatially constant throughout all geometries|
+biodiv_ferns_spatial_lumped|stem|80c532dde003c83f|b085b4858267fc44|dd6fa1af2da6b319|631500674||t19014.1380494905s|ce5c2ea4af08b0ae|280847|rds|vector|||0.019||
+biodiv_ferns_cent_figshare|stem|575736c0e8c94fc1|d8a1ad9c3fffb8f9|927e3d8e9877f477|-256109275||t19014.1380494442s|5153b0b71399e6b8|113077|rds|vector|||0.234|st_centroid assumes attributes are constant over geometries of x|
+t_test_results|stem|2123546a64ed1740|c8e8e3fb6b954b58|ae2e4c4af33e616b|484831019||t19060.3245079433s|969cddda92766793|772|rds|vector|||3.334|st_centroid assumes attributes are constant over geometries of x|
+dist_list|stem|8d39b14b2100ba69|2dc90d37ce046ca2|30759f2a880d0b6d|-222278031||t19014.1380511109s|55195c106a5c19c6|1959443|rds|vector|||19.245||
+data_for_moran|stem|f2790ad23d4c9c6c|855c5b9a4c13f0e0|84422823c6ce19b2|2134285299||t19014.1380509257s|c72ea9296bb067ae|20253124|rds|vector||data_for_moran_278d8c2d*data_for_moran_64cb40dd*data_for_moran_9a638a07*data_for_moran_445012ce*data_for_moran_1bf6dc42*data_for_moran_8ab7511e*data_for_moran_46a78cbb*data_for_moran_1f64cb91*data_for_moran_c131b861*data_for_moran_05563c8e|0.038||
+data_for_spamm|stem|00da09cfc3b3db88|f791b6c3d8daabc1|3981bf33bf528e26|170910087||t19014.138050972s|bf08dc86d3d16819|461668|rds|vector||data_for_spamm_d2a6d372*data_for_spamm_4f7152c3*data_for_spamm_0db619f1*data_for_spamm_881248d1*data_for_spamm_3b631494*data_for_spamm_41bf0685*data_for_spamm_a7ba72ae|0.034||
+spatial_models_d1b6439b|branch|8a953419da950f72|15e6855fc110348a|fd10eae47a9f50b9|-920951723||t19014.138071482s|629e8ff81f422ce7|61339787|rds|vector|spatial_models||1574.791||
+spatial_models_7c53a0e0|branch|383cd9f3b4024ca2|15e6855fc110348a|46fee2a45228ecde|1729320846||t19014.1380687967s|cbf65a42f2985195|79351621|rds|vector|spatial_models||349.099||
+spatial_models_6b63c0c1|branch|c5e94809f2571d18|15e6855fc110348a|615c77ab5152e175|1160990775||t19014.1380587964s|0ddeb79af04c2ec5|79946190|rds|vector|spatial_models||338.09||
+spatial_models_6c42ac29|branch|dd41789edb1b072d|15e6855fc110348a|28d259885ac03454|1001462011||t19014.1380620372s|8e18508504e49d15|65770681|rds|vector|spatial_models||214.961||
+spatial_models_7c153c85|branch|3ae2143a7f5ecb10|15e6855fc110348a|a8a822eb1b75d7b8|-482497434||t19014.138065417s|d029c7a08874dd59|78789594|rds|vector|spatial_models||195.578||
+spatial_models_5b5df6a5|branch|bd53984be45fb534|15e6855fc110348a|1e514e8ec7e5f05f|-728951062||t19014.1380554166s|0a30a9efb04000f2|79328575|rds|vector|spatial_models||427.024||
+model_fits_55e3f6b3|branch|3b7dc18292dbf970|01281e76c3b6111f|d9c363aa631fab18|1418367735||t19014.1380513887s|4942d91646dd93bc|978|rds|vector|model_fits||31.486||
+model_fits_f183514b|branch|8a7e232e841d6f8a|01281e76c3b6111f|07ff9acb23dc807f|-1625135711||t19014.1380513887s|800f3c51ba1e8b9f|995|rds|vector|model_fits||33.053||
+model_fits_86b4f232|branch|1fe4db37b32be42f|01281e76c3b6111f|ccb76c73268d19c2|-840707630||t19014.1380513887s|800f3c51ba1e8b9f|995|rds|vector|model_fits||41.002||
+model_fits_71bff899|branch|3c0295597ae1a8d1|01281e76c3b6111f|0f794274049b8282|685130268||t19014.1380513887s|800f3c51ba1e8b9f|995|rds|vector|model_fits||47.416||
+model_fits_cfb1bb9b|branch|c7942b9180022363|01281e76c3b6111f|d4e5bb1710df4d1e|-93618103||t19014.1380513887s|5e0deaec442d0efe|923|rds|vector|model_fits||56.484||
+model_fits_05e13f0c|branch|f0250853bddf697d|01281e76c3b6111f|57b592c5b9ba97b4|1201365746||t19014.1380513887s|22a13f8630a33941|914|rds|vector|model_fits||37.344||
+protected_biodiv|stem|385bfed4a658a2fc|a67d2e98b51adef8|c6853625c46ebf09|-1172631737||t19014.1380520369s|36ad2e41dd52cf96|3868746|rds|vector|||151.532|attribute variables are assumed to be spatially constant throughout all geometries|
+phy_sig_results|stem|59fea658ed55baed|1b535aab8b2bfb93|0dbfd96dc9c809ad|461867680||t19014.1380513887s|44d8296aaebe8c60|317|rds|vector|||72.99||
+signif_cells_deer_danger|stem|d945606a77be56e5|67518bf402b5ae8b|d36935fb7c63d7d8|-1845752541||t19014.1380520369s|c0bcc022442a2701|569|rds|vector|||0.234||
+signif_cells_protected_area|stem|3b0395419304fcb7|9d5c502df65437fe|5718bb12c3148bab|-2107137324||t19014.1380520369s|65e62fac1a4ffe81|495|rds|vector|||0.234||
+japan_fern_phylogram_figshare_file|stem|5301e584222f5553|c712915dfef07406|30e44f1f0961c3ef|459134205|results/figshare_files/japan_ferns_tree.tre|t19060.3245145176s|72b192f15264d761|33930|file|vector|||0.033||
+morans_i_9eaa19d5|branch|652f8889dcad25b5|45ce504e6ae2915b|69f957e1e520332a|-1617693685||t19014.1380513887s|efcd02b2c80eadaa|298|rds|vector|morans_i||45.196||
+morans_i_49726682|branch|2bf9353d7803322f|45ce504e6ae2915b|d106cb6d9365062e|-1689604876||t19014.1380513887s|efcd02b2c80eadaa|298|rds|vector|morans_i||42.659||
+morans_i_b31ca86d|branch|a1197bf75d77efb0|45ce504e6ae2915b|5327d9f25171b3f5|-969302363||t19014.1380513887s|efcd02b2c80eadaa|298|rds|vector|morans_i||43.652||
+morans_i_a1cae4d4|branch|fb045010ce46e5bd|45ce504e6ae2915b|444ab9370e39bbca|210396211||t19014.1380513887s|0e56fdca6a5a4864|301|rds|vector|morans_i||42.013||
+morans_i_a94b54d7|branch|f7634a0112e6b344|45ce504e6ae2915b|03092e3b75e07094|-980011580||t19014.1380513887s|11016194afa2c5c5|297|rds|vector|morans_i||41.25||
+morans_i_c135b4e8|branch|bea8f85f172b0d30|45ce504e6ae2915b|737d5ce738aa0a41|-70494550||t19014.1380513887s|11016194afa2c5c5|297|rds|vector|morans_i||41||
+morans_i_27334d46|branch|388dfa30f24a9415|45ce504e6ae2915b|1d9f7971fa2161e5|723226635||t19014.1380513887s|a1eb2c1cc7ef6b38|294|rds|vector|morans_i||39.705||
+morans_i_fe57551f|branch|816f2c91616eb155|45ce504e6ae2915b|2b77346e0fe69bbd|-1631377738||t19014.1380513887s|a1eb2c1cc7ef6b38|294|rds|vector|morans_i||42.244||
+morans_i_a8754e74|branch|9809232d42e8510a|45ce504e6ae2915b|d1113db5c2913db8|1086160924||t19014.1380513887s|8587ccc456de1c8b|300|rds|vector|morans_i||42.297||
+morans_i_4013368b|branch|e7988fe060416072|45ce504e6ae2915b|98cddd31aea98617|985040898||t19014.1380513887s|365c3547718ef9a1|295|rds|vector|morans_i||34.961||
+japan_fern_tree_uncollapsed_figshare_file|stem|f4ecc8a00806657f|cf18ba28011e617c|805bb648fc0a851b|-1474471314|results/figshare_files/japan_ferns_tree_dated_uncollapsed.tre|t19060.3245178974s|0b3e73936cefdd05|30205|file|vector|||0.032||
+biodiv_ferns_endemic_spatial|stem|859ae1004ec0f96a|2b6431f924696267|a7fd657f67eac84d|1774503305||t19014.1380494442s|0717db2d4ac8a57a|89953|rds|vector|||2.667||
+japan_fern_tree_figshare_file|stem|10c4ba31236e2335|9ce5d652cfd56ea6|48e99312bfce86c6|-945731860|results/figshare_files/japan_ferns_tree_dated.tre|t19060.3245188233s|0b5c5dba4a1cd6f9|28703|file|vector|||0.034||
+japan_ferns_biodiv_figshare_file|stem|8f38004a4c3c7a94|6aca86ee9b58585a|9247d298b2065450|-1691359462|results/figshare_files/japan_ferns_biodiv.csv|t19060.3245228512s|df8cf9e0bed9ac5c|511092|file|vector|||0.291||
+data_readme|stem|615fcb7be466de71|6ec31d809a0d8226|6b64238266309f9b|588561285|results/data_readme.rtf*ms/data_readme.Rmd|t19060.3249097634s|da6de2fd32410df1|74327|file|vector|||33.41||
+spatial_models_e03db944|branch|c797cdd48b9c22e7|15e6855fc110348a|799352172ce3ad04|1567114212||t19060.3256134464s|9d7b885397f1592c|78699072|rds|vector|spatial_models||87.929||
+spatial_models|pattern|d8236c12f93975b1|15e6855fc110348a||188454534||||78699072|rds|vector||spatial_models_d1b6439b*spatial_models_7c53a0e0*spatial_models_e03db944*spatial_models_6b63c0c1*spatial_models_6c42ac29*spatial_models_7c153c85*spatial_models_5b5df6a5|87.929||
+spatial_models_not_ult_6be81b4d|branch|5841235a93ff52fd|66c3ed0712af1e37|3d81c7e911d9152c|114605050||t19060.3258862803s|c3bdb4fa927beeaa|78623268|rds|vector|spatial_models_not_ult||103.593||
+data_for_lrt|stem|f2463057650a9d79|718e7a687b833ccc|1e670d8ee81693cc|-128746720||t19060.3261382339s|53f1d374f8c25f0a|2644268|rds|vector||data_for_lrt_5307bdde*data_for_lrt_15100b73*data_for_lrt_19a1b6ad*data_for_lrt_03fe0074*data_for_lrt_7b1ee780*data_for_lrt_40c352f3*data_for_lrt_60f821c7*data_for_lrt_a40ec669*data_for_lrt_7ac32184*data_for_lrt_ffe87f9b*data_for_lrt_bbafff01*data_for_lrt_20b29739*data_for_lrt_61bbe5ec*data_for_lrt_34fa21c5*data_for_lrt_49ddb6fa*data_for_lrt_28f0db5f*data_for_lrt_de78b14a*data_for_lrt_cd63f524*data_for_lrt_c7c8c04f*data_for_lrt_4c6dd76f*data_for_lrt_6b4fb41e*data_for_lrt_570c6bd3*data_for_lrt_63e6cf3a*data_for_lrt_02b64005*data_for_lrt_39a35e93*data_for_lrt_df1e8489*data_for_lrt_089fad50*data_for_lrt_7928e5ec*data_for_lrt_e25e075f*data_for_lrt_083fa4c4*data_for_lrt_f0e34ee8*data_for_lrt_f9be6811*data_for_lrt_1bcdf7de*data_for_lrt_e17ff3b4*data_for_lrt_c817069e*data_for_lrt_a55eea5d*data_for_lrt_9216b660*data_for_lrt_a0b27ceb*data_for_lrt_ac694d33*data_for_lrt_5c32a7f1|0.154||
+lrt_results_856277d8|branch|cd4465d135acf392|1a475fd6e7bb24c7|e056c76305a0ed51|474370941||t19014.1380513887s|7e50109c4a0b197a|346|rds|vector|lrt_results||979.98||
+lrt_results_72b2a969|branch|a470e245331a32f6|1a475fd6e7bb24c7|eb8914bee4aed78c|-2052930084||t19014.1380513887s|c300aeef4648a6fd|342|rds|vector|lrt_results||1026.999||
+lrt_results_ae3efa14|branch|9bb31f79f389d872|1a475fd6e7bb24c7|59b94e8d0a44c237|-1059683921||t19014.1380513887s|ef35a6441324dad1|348|rds|vector|lrt_results||870.406||
+lrt_results_0425e56c|branch|6974d2fd072b2197|1a475fd6e7bb24c7|165773768e606783|788285326||t19014.1380513887s|ef79ded412b140f0|349|rds|vector|lrt_results||730.129||
+lrt_results_3992471b|branch|341472b02b27d97c|1a475fd6e7bb24c7|3066780037d98583|1904119217||t19014.1380513887s|ef35a6441324dad1|348|rds|vector|lrt_results||866.923||
+lrt_results_aefd6895|branch|88ed609143953016|1a475fd6e7bb24c7|3f7ad5a41e8a59d0|118431307||t19014.1380513887s|ef35a6441324dad1|348|rds|vector|lrt_results||988.121||
+lrt_results_82d22a84|branch|dff3485e2bac517e|1a475fd6e7bb24c7|97f094a461f58e6e|-1628752379||t19014.1380513887s|53ebb00e2399067e|355|rds|vector|lrt_results||1462.073||
+model_stats|stem|5319e9c4bcd29b7b|83547970868fa7fe|3414f164463548ae|874067978||t19060.3262735629s|51f7ad908b9e68b5|629|rds|vector|||0.036||
+lrt_results_055b418f|branch|054e3d44ea7e91b3|1a475fd6e7bb24c7|aab81420ad6e47c6|1487502367||t19014.1380513887s|c00122ae53f3dfad|352|rds|vector|lrt_results||1772.392||
+lrt_results_e7b48e0a|branch|2eee3dc6b224db76|1a475fd6e7bb24c7|4bd2f3a37dd7b36b|-43460815||t19014.1380513887s|c00122ae53f3dfad|352|rds|vector|lrt_results||1468.455||
+lrt_results_5f1fc018|branch|9fe81f96cf5e519d|1a475fd6e7bb24c7|69b0814267df3602|493817760||t19014.1380513887s|2da402a946d20212|354|rds|vector|lrt_results||1430.235||
+model_fits_a99bb3b4|branch|7f20d93edeead1bc|01281e76c3b6111f|0d2e4d06f2182f33|-369098992||t19060.326291758s|800f3c51ba1e8b9f|995|rds|vector|model_fits||55.205||
+model_fits|pattern|42f2b0714a9c81c0|01281e76c3b6111f||-553083469||||995|rds|vector||model_fits_55e3f6b3*model_fits_f183514b*model_fits_a99bb3b4*model_fits_86b4f232*model_fits_71bff899*model_fits_cfb1bb9b*model_fits_05e13f0c|55.205||
+aic_env_repro|stem|2dad7e98ac71cca4|04a0c1819687c65b|866775820ed3338a|-482095689||t19060.3264488933s|a07afd8ce5bf6aa9|466|rds|vector|||31.432||
+lrt_results_6d56c77d|branch|d0aa2eb220cea9f4|1a475fd6e7bb24c7|70d2d061c66a65f0|-994824740||t19014.1380513887s|905688308fb113f7|351|rds|vector|lrt_results||1799.503||
+lrt_results_6ca299da|branch|ad15c7373d436332|1a475fd6e7bb24c7|fef5892cb9aba2c4|-868516206||t19014.1380513887s|53ebb00e2399067e|355|rds|vector|lrt_results||2111.163||
+model_params|stem|1272b07835b95e22|ce16237aaa05ee13|d09c27d4191b7f47|2101287320||t19060.3265634345s|b20b1bbbf4a1d6a3|1487|rds|vector|||44.168||
+lrt_results_edb984f0|branch|559441c590d81508|1a475fd6e7bb24c7|25641844442d1b71|654869583||t19014.1380513887s|a716db876c9596cc|353|rds|vector|lrt_results||833.428||
+lrt_results_346f6f31|branch|33fae507680e87c9|1a475fd6e7bb24c7|9fab4bbdb15357a0|-734618564||t19014.1380513887s|ef79ded412b140f0|349|rds|vector|lrt_results||749.202||
+lrt_results_e8f9ff66|branch|37f8d7a9d9fff903|1a475fd6e7bb24c7|0829066fb1f252a0|1010419773||t19014.1380513887s|905688308fb113f7|351|rds|vector|lrt_results||683.04||
+model_fits_not_ult_1ac0a723|branch|829c76cbd43092c7|8de35ecb8c58cb4f|da5d5bf29fc902a6|2052623133||t19060.3265776017s|5e0deaec442d0efe|923|rds|vector|model_fits_not_ult||56.91||
+lrt_results_89564e07|branch|32ff03271acdc1f0|1a475fd6e7bb24c7|6cfc66cdd0819f9c|-753685563||t19014.1380513887s|905688308fb113f7|351|rds|vector|lrt_results||655.223||
+lrt_results_25a80851|branch|81112a0f9876f228|1a475fd6e7bb24c7|c8bc686db9a3d08b|693663101||t19014.1380513887s|905688308fb113f7|351|rds|vector|lrt_results||651.511||
+lrt_results_158f6059|branch|1e9b75c42a1d796f|1a475fd6e7bb24c7|8fb366a54594f9e6|-1152469043||t19014.1380513887s|15a2beec65aeeb81|357|rds|vector|lrt_results||1552.915||
+lrt_results_999fa245|branch|934c225d7f14b318|1a475fd6e7bb24c7|2102668c96e3bdd0|-2101054207||t19014.1380513887s|2da402a946d20212|354|rds|vector|lrt_results||1675.76||
+lrt_results_179b192c|branch|9d146f716b854a03|1a475fd6e7bb24c7|5dd6b08d0fac39da|1994539911||t19014.1380513887s|ef79ded412b140f0|349|rds|vector|lrt_results||1776.679||
+lrt_results_965fc00b|branch|709103dfd331e3eb|1a475fd6e7bb24c7|0d6d283c7547f8be|72713330||t19014.1380513887s|a716db876c9596cc|353|rds|vector|lrt_results||1330.68||
+lrt_results_398222e7|branch|060cb3066c560c17|1a475fd6e7bb24c7|8630d837598b7aa2|9695739||t19014.1380513887s|a716db876c9596cc|353|rds|vector|lrt_results||1487.687||
+lrt_results_80d35bad|branch|dfa8a04d5bf3f4e8|1a475fd6e7bb24c7|3652cba144a3e01c|878784578||t19014.1380513887s|a716db876c9596cc|353|rds|vector|lrt_results||1039.806||
+lrt_results_6fe58e9b|branch|b2b115407fe6e1d2|1a475fd6e7bb24c7|186365743eb8bb51|1406608516||t19014.1380513887s|b81895e14878e86f|359|rds|vector|lrt_results||1580.306||
+lrt_results_9d48af84|branch|0e4df5df1786e797|1a475fd6e7bb24c7|5113db7882f3ba27|-1382530970||t19014.1380513887s|53ebb00e2399067e|355|rds|vector|lrt_results||1751.355||
+lrt_results_27ea120c|branch|c23c68aef02bbcd8|1a475fd6e7bb24c7|7dc4afddee0225b2|-377954017||t19014.1380513887s|ef35a6441324dad1|348|rds|vector|lrt_results||707.892||
+lrt_results_307d09be|branch|ed1068dee8dc5a2c|1a475fd6e7bb24c7|5ab575efc931508b|-770007894||t19014.1380513887s|905688308fb113f7|351|rds|vector|lrt_results||808.444||
+lrt_results_10fc1a9f|branch|2509e725cadf473b|1a475fd6e7bb24c7|f4efcadd61cc202f|1065857106||t19014.1380513887s|2da402a946d20212|354|rds|vector|lrt_results||797.939||
+lrt_results_fe81718f|branch|85d4f9c9ace3e754|1a475fd6e7bb24c7|68c657a5284fac8a|-1571721163||t19014.1380513887s|2da402a946d20212|354|rds|vector|lrt_results||719.574||
+lrt_results_4800dafd|branch|52904b1f47eb9d9b|1a475fd6e7bb24c7|a24150154f8ddda7|-1191895889||t19014.1380513887s|b81895e14878e86f|359|rds|vector|lrt_results||1430.186||
+lrt_results_1c6cc8bc|branch|9aeb62595d076fee|1a475fd6e7bb24c7|569c3da21b74fe65|1276466263||t19014.1380513887s|ee143e4c8ea21b7d|350|rds|vector|lrt_results||1251.08||
+lrt_results_f67d23dd|branch|0c03377005a1c07b|1a475fd6e7bb24c7|b1d314925e5876f5|2050507075||t19014.1380513887s|0f05aa39aab40022|347|rds|vector|lrt_results||1200.942||
+lrt_results_d3163b75|branch|04f6b31017777ae5|1a475fd6e7bb24c7|5e724dd4b0fd1b80|1309346679||t19014.1380513887s|ef79ded412b140f0|349|rds|vector|lrt_results||554.105||
+lrt_results_f015b531|branch|2722fcf4b1a78c62|1a475fd6e7bb24c7|a3129fb65086f736|-806930624||t19014.1380513887s|ef79ded412b140f0|349|rds|vector|lrt_results||566.858||
+lrt_results_8e2832c4|branch|47604a2c7310def3|1a475fd6e7bb24c7|f4ee3f1a26e4feb4|-804033515||t19014.1380513887s|a716db876c9596cc|353|rds|vector|lrt_results||1283.642||
+lrt_results_b7251360|branch|a9d34f3a40f32411|1a475fd6e7bb24c7|8f9ceb3a9f97c6f2|489152938||t19014.1380513887s|ee143e4c8ea21b7d|350|rds|vector|lrt_results||1130.423||
+lrt_results_9d1d6e93|branch|c685d6af1e605e0b|1a475fd6e7bb24c7|3e3b43b8f30bbe2a|-412567625||t19014.1380513887s|905688308fb113f7|351|rds|vector|lrt_results||1293.6||
+lrt_results_273da407|branch|d1768ba00c1dff8b|1a475fd6e7bb24c7|0c7672a72c915575|-169473280||t19014.1380513887s|905688308fb113f7|351|rds|vector|lrt_results||1112.608||
+lrt_results_73cb1fb9|branch|6f4d6721e4cc4c01|1a475fd6e7bb24c7|9a302c944c858638|1664318409||t19014.1380513887s|c00122ae53f3dfad|352|rds|vector|lrt_results||1043.596||
+lrt_results_0f91ba73|branch|17c0db3bae53402e|1a475fd6e7bb24c7|f8b0619b0d392d2d|193686109||t19014.1380513887s|d6f6cb245ef27b75|356|rds|vector|lrt_results||1052.382||
+spatial_models_not_ult_0d10f70d|branch|10878b6f5ea55ce8|66c3ed0712af1e37|c85c77012bfe1030|-1995968284||t19060.3293238588s|57b85596dea37a8b|78942967|rds|vector|spatial_models_not_ult||189.362||
+spatial_models_not_ult|pattern|f62e54602ca2e78b|66c3ed0712af1e37||-2027835647||||157566235|rds|vector||spatial_models_not_ult_6be81b4d*spatial_models_not_ult_0d10f70d|292.955||
+model_fits_not_ult_dbeb200a|branch|a90bb8fe0012bed1|8de35ecb8c58cb4f|b265181c3f4a69d8|-1221964080||t19060.3297985983s|85e94fc9cb71ee97|919|rds|vector|model_fits_not_ult||38.476||
+model_fits_not_ult|pattern|e80f856906c300f6|8de35ecb8c58cb4f||-1477765673||||1842|rds|vector||model_fits_not_ult_1ac0a723*model_fits_not_ult_dbeb200a|95.386||
+refs_other_yaml|stem|9d2d8a24ffb36aa0|d972c6b5d0a8df9d|ef46db3751d8e999|-1522278727|ms/references_other.yaml|t19109.2110107179s|76e2cf856762cd15|7265|file|vector|||0.002||
+refs_yaml|stem|e88afed71ab2956a|feed598d9dfb083d|ef46db3751d8e999|-1003750144|ms/references.yaml|t19109.2110107179s|d49c2dfcb3744f71|58267|file|vector|||0.001||
+refs_data_readme_yaml|stem|f2cb5f183e2db821|8f9ac2db1fbfe3d5|ef46db3751d8e999|-50473349|ms/data_readme_refs.yaml|t19109.2110106716s|8e800cda27cc5fba|3471|file|vector|||0.001||
+csl_file|stem|89354da1a886a3a0|b1645a34e35204b6|ef46db3751d8e999|-540784379|ms/american-journal-of-botany.csl|t19061.1419130996s|43af38843d828ca2|6558|file|vector|||0.001||
+refs_other_bib|stem|09038bc3f02f8986|f3b6044e1fe451b7|ef46db3751d8e999|-1002747980|ms/references_other.bib|t19109.2110107179s|7687bb011feaab9b|808|file|vector|||0||
+template_file|stem|c1c945235bdbbf34|8adc01d289d70a18|ef46db3751d8e999|-1857571638|ms/american-journal-of-botany.docx|t19109.2110106716s|bea0dda2167bc5f3|20464|file|vector|||0||
+figshare_zipped|stem|881f11f626f3d12b|0593abb6b2419023|9a2b6604530c7239|-1858662533|results/figshare_files/results.zip|t19109.2126869846s|805df364e4ab9a0e|356859|file|vector|||0.132||
+ms_functions|stem|b78507c61cca836d|7678548fcbb5a461|ef46db3751d8e999|38470060|R/ms_functions.R|t19109.274384252s|7c97da35cf62cf99|12924|file|vector|||0.001||
+data_readme_txt|stem|763af37141373b6a|82af66e9e40d927e|2b39cfe6bab5b757|1423217327|results/figshare_files/README.txt*ms/data_readme.Rmd|t19109.2760069054s|0649aaf43789f0ff|59600|file|vector|||30.388||
+ms_pdf|stem|8cb4a05822ce3de9|2d952fec5b3aa0b8|aaa94d69dbc57d54|-1527614975|results/manuscript.pdf*ms/manuscript.Rmd|t19109.2785340372s|0570b868c02c7545|5368430|file|vector|||125.517|Unknown levels in f  0.01,  0.025,  0.975|
+ms_doc|stem|9ea4260087b15c2f|3fe519ac72530496|aaa94d69dbc57d54|-1755183155|results/manuscript.docx*ms/manuscript.Rmd|t19109.2798096406s|805f812bb3d62563|171364|file|vector|||110.135|Unknown levels in f  0.01,  0.025,  0.975|
+si_data_exploration|stem|d4cf737687782a37|af0989c7b5347e3a|fd0a08868fe945ac|-24441862|results/appendix_s2.pdf*ms/data_exploration.Rmd|t19109.304652205s|a578fc02131f0040|2023901|file|vector|||12.578|fancyhdr                You might also make \topmargin smaller to compensate|
 predict_fit|function|ce20a141fcbbd3bb||||||||||||||
 rename_alignment|function|ac6249b6bf34d6fd||||||||||||||
+tmp|object|5e5aa059c27ed20b||||||||||||||
 area_from_crop|function|4e9a767706d45d0b||||||||||||||
 load_jferns_shape|function|94213384b2399674||||||||||||||
 tidy_japan_names|function|4a9061baeed5cd40||||||||||||||
@@ -1251,6 +1255,7 @@ lesser_than_or_equal_single|function|ed9e387473abb2d3||||||||||||||
 filter_comm_by_redun|function|0a95143d38328afb||||||||||||||
 .__S3MethodsTable__.|object|53e05a0f51948f75||||||||||||||
 add_selected_pred_to_model|function|ab5086a0f28adf4d||||||||||||||
+plain_document|function|2cb44df2ebf3e5ba||||||||||||||
 clean_occ_point_data|function|8221ce87b3f05523||||||||||||||
 combine_pa|function|79737e5f187830c1||||||||||||||
 run_moran_mc|function|fca586b1ee7b04c3||||||||||||||
@@ -1263,6 +1268,7 @@ subset_comm_to_endemic|function|c60554dd76a9ba74||||||||||||||
 collapse_to_star_zero|function|3a9ea052699fb2ce||||||||||||||
 get_beta_table|function|dcf3af8b7f6fa803||||||||||||||
 run_spamm|function|51f80c66e9ad77e6||||||||||||||
+zip_files|function|24f6684526602141||||||||||||||
 get_lucid_mean|function|9a38454f8cefa0e7||||||||||||||
 load_shape_from_zip|function|82430d54db43736e||||||||||||||
 write_comm_to_csv|function|635288314d495ecb||||||||||||||
@@ -1275,7 +1281,7 @@ make_traits_dendrogram|function|a07ad731ed3c504f||||||||||||||
 unzip_ebihara_2019|function|1c8ed3bcbe8f772e||||||||||||||
 make_trait_dist_matrix|function|79b1192ae2669a6b||||||||||||||
 read_ja_rbcL_from_zip|function|c23430e406c7bb5a||||||||||||||
-.Random.seed|object|28d3ffb24591f5e2||||||||||||||
+.Random.seed|object|0126eac829dcd13e||||||||||||||
 calculate_percent_protected|function|b638a10967f8c23a||||||||||||||
 read_greenlist_from_zip|function|ef127dd459274e16||||||||||||||
 load_repro_data|function|0c0495579451b7e4||||||||||||||
@@ -1286,7 +1292,7 @@ subset_comm_by_repro|function|9bdf7b1f93f4e397||||||||||||||
 transform_traits|function|f695513f16ff28ad||||||||||||||
 calc_redundancy_by_res|function|e5ae260fcd34a959||||||||||||||
 write_csv_tar|function|9800ece0fcf2d323||||||||||||||
-.__NAMESPACE__.|object|017d22071a874e31||||||||||||||
+.__NAMESPACE__.|object|febc490978a33403||||||||||||||
 find_k_phylogeny|function|efce3855c36fdf0d||||||||||||||
 analyze_binary_phylosig|function|6a5ffc702faaaa01||||||||||||||
 calc_area_by_lat|function|8cde9b7b84a11f10||||||||||||||
@@ -1320,4 +1326,4 @@ analyze_cont_phylosig|function|9aec7c923ddf250c||||||||||||||
 calc_biodiv_random|function|e1a0f8014e703497||||||||||||||
 cpr_classify_endem|function|be4813614f6ee804||||||||||||||
 cpr_classify_signif|function|da543105050d37cd||||||||||||||
-si_data_exploration|stem|3e30f374e880884e|af0989c7b5347e3a|fd0a08868fe945ac|-24441862|results/appendix_s2.pdf*ms/data_exploration.Rmd|t19014.9345988169s|c02d8aecf21b4628|2023225|file|vector|||15.101|fancyhdr                You might also make \topmargin smaller to compensate|
+si_pdf|stem|772bc875b4a26ef5|f21c3cdedb0f4eeb|50bbea680f126fc3|-1969991469|results/appendix_s1.pdf*ms/SI.Rmd|t19110.0439813492s|12956c486733db52|23181228|file|vector|||83.352|fancyhdr                You might also make \topmargin smaller to compensate|
